@@ -1,0 +1,186 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+.sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+  }
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px;
+ padding-right: 40px;
+ padding-left: 40px;
+ height: 100%;
+ position: fixed;
+ overflow: auto;
+}
+
+.main .page-header {
+  margin-top: 0;
+}
+
+.yes-sidebar .folder-item{
+    display: block;
+    cursor: pointer;
+    padding: 3px;   
+}
+
+.folder-item {
+    cursor: pointer;
+}
+
+.main .img-row{
+    margin-bottom: 20px;
+}
+
+.yes-fill, .fill {
+    height: 100%;
+    min-height: 100%;
+}
+
+.img-preview {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .yes-content {
+        width: 80%;
+    }
+}
+
+.container {
+    height: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 99%;
+}
+
+.yes-image-container {
+    border:1px dotted #ddd;
+}
+
+
+/*html, body {
+    height: 100%;
+    padding: 0;
+}
+
+.img-row {
+    overflow: visible;
+    margin-bottom: 10px;
+}
+
+.container {
+    height: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 99%;
+}
+
+.fill {
+    height: 100%;
+    min-height: 100%;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+#lfm-leftcol {
+    min-height: 80%;
+    padding: 10px;
+}
+
+#right-nav {
+    border-left: 1px solid silver;
+    height: 90%;
+    min-height: 90%;
+    padding: 10px 0;
+}
+
+#content {
+    overflow: auto;
+}
+
+#tree1 {
+    margin-left: 25px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.img-preview {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    height: 200px;
+}
+
+.hidden {
+    display: none;
+}

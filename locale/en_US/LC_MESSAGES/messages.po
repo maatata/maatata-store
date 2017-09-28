@@ -1,0 +1,4696 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maatata Store\n"
+"POT-Creation-Date: 2017-09-25 18:15+0530\n"
+"PO-Revision-Date: 2017-09-25 18:15+0530\n"
+"Last-Translator: Maatata\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: app\n"
+"X-Poedit-SearchPath-1: resources\n"
+"X-Poedit-SearchPath-2: config\n"
+
+#: app/Yantrana/Components/Brand/BrandEngine.php:170
+#: app/Yantrana/Components/User/Controllers/UserController.php:245
+msgid "Current password is incorrect."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/BrandEngine.php:182
+#: app/Yantrana/Components/Brand/BrandEngine.php:205
+#: app/Yantrana/Components/Brand/BrandEngine.php:221
+msgid "Brand not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/BrandEngine.php:188
+#: app/Yantrana/Components/Brand/BrandEngine.php:227
+msgid "Brand deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:74
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:115
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:142
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:296
+msgid "Brand does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:91
+msgid "Brand added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:92
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:140
+msgid "Selected logo file does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:93
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:139
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:70
+#: app/Yantrana/Components/Tax/TaxEngine.php:142
+msgid "oh..no. error."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:138
+msgid "Brand updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Brand/Controllers/BrandController.php:141
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:139
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:209
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:149
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:208
+#: app/Yantrana/Components/Tax/TaxEngine.php:258
+#: app/Yantrana/Components/User/Controllers/AddressController.php:149
+#: app/Yantrana/Components/User/Controllers/AddressController.php:179
+msgid "Nothing update."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Categories.php:164
+msgid "make a parent"
+msgstr ""
+
+#: app/Yantrana/Components/Category/Categories.php:170
+msgid "Categories does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:185
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:238
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:263
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:287
+msgid "Category does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:214
+msgid "Category added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:215
+msgid "Parent category not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:216
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:264
+msgid "Category name already exist."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:261
+msgid "Category updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:262
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:212
+#: app/Yantrana/Components/User/Controllers/UserController.php:435
+msgid "Nothing updated."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:285
+msgid "Category deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Category/Controllers/ManageCategoryController.php:286
+msgid "Invalid password. please enter correct password."
+msgstr ""
+
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:69
+msgid "Coupon added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:92
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:114
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:140
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:165
+msgid "Coupon does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:138
+msgid "Coupon updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:163
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Coupon/Controllers/CouponController.php:164
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:226
+#: app/Yantrana/Components/Tax/Controllers/TaxController.php:161
+#: app/Yantrana/Components/User/Controllers/AddressController.php:95
+msgid "Something went wrong."
+msgstr ""
+
+#: app/Yantrana/Components/Home/Controllers/HomeController.php:155
+msgid "Invalid Request"
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:44
+msgid "File not uploaded."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:45
+msgid "File has an invalid extension, it should be png, jpeg, jpg."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:75
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:77
+msgid "File deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:76
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:78
+msgid "File not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:77
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:79
+msgid "File does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:96
+msgid "Files deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Media/Controllers/MediaController.php:97
+msgid "Files not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:154
+msgid "List order updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:155
+msgid "Nothing updated"
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:172
+msgid "Page added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:173
+msgid "Page not added."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:189
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:208
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:227
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:246
+msgid "Page does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:207
+msgid "Page updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:225
+msgid "Page deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Pages/Controllers/ManagePagesController.php:228
+msgid ""
+"This menu/page item can not be deleted because it contains childrens items."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:67
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:130
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:147
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:164
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:189
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:213
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:330
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:536
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:309
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:327
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:81
+msgid "Product does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:109
+msgid "Product added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:110
+msgid "Product not added."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:111
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:187
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:212
+msgid "Selected image does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:128
+msgid "Product deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:129
+msgid "Product not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:185
+msgid "Product updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:186
+msgid "Product not updated."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:188
+msgid "Select valid product categories."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:210
+msgid "Product image added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:211
+msgid "Product image not added."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:243
+msgid "Product image deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:244
+msgid "Product image not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:245
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:266
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:294
+msgid "Product image does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:292
+msgid "Product image updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:293
+msgid "Product image not updated."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:327
+msgid "Product option added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:328
+msgid "Product option not added."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:329
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:399
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:499
+msgid "Option name already taken for this product."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:348
+msgid "Product option deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:349
+msgid "Product option not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:350
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:371
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:401
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:427
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:448
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:501
+msgid "Product option does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:398
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:497
+msgid "Product option updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:400
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:500
+msgid "Product option not updated."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:425
+msgid "Product option values added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:426
+msgid "Value name already taken for this product option."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:471
+msgid "Product option value deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:472
+msgid "Product option value not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:473
+msgid "Product option value does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:498
+msgid "Option values not enter."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:534
+msgid "Product Specification added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:535
+msgid "Product Specification not added."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:556
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:599
+msgid "Product specification does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:577
+msgid "Product specification updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:578
+msgid "Product Specification values not enter."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:579
+msgid "Product Specification values not updated."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:580
+msgid "Product Specification values does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:597
+msgid "Product specification deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ManageProductController.php:598
+msgid "Product specification not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:64
+msgid "Requested category does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:91
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:203
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:263
+#: resources/views/order/manage/list.blade.php:176
+msgid "name"
+msgstr ""
+
+#: app/Yantrana/Components/Product/Controllers/ProductController.php:128
+msgid "Sorry this product is currently not available, Please reload the page."
+msgstr ""
+
+#: app/Yantrana/Components/Product/ProductEngine.php:92
+msgid " to "
+msgstr ""
+
+#: app/Yantrana/Components/Product/ProductEngine.php:185
+msgid "Select __option_name__"
+msgstr ""
+
+#: app/Yantrana/Components/Product/Requests/ProductSpecificationAddRequest.php:59
+msgid "The name field is required."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Requests/ProductSpecificationAddRequest.php:60
+msgid "The name field has already been taken."
+msgstr ""
+
+#: app/Yantrana/Components/Product/Requests/ProductSpecificationAddRequest.php:61
+msgid "The value field is required."
+msgstr ""
+
+#: app/Yantrana/Components/Report/Controllers/ReportController.php:113
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:186
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:211
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:283
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:303
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:318
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:365
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:381
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:263
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:286
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:310
+msgid "Order does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Report/ReportEngine.php:412
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:966
+msgid "Generated on :currentDate"
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:87
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:150
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:174
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:191
+#: app/Yantrana/Components/Shipping/ShippingEngine.php:190
+msgid "Shipping rule does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:148
+msgid "Shipping rule updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:172
+msgid "Shipping rule deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:173
+msgid "Shipping rule not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/Controllers/ShippingController.php:207
+msgid "All Other Country Shipping rule updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/ShippingEngine.php:150
+msgid "Invalid country code."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/ShippingEngine.php:157
+msgid "Shipping rule added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Shipping/ShippingEngine.php:160
+msgid "Shipping rule not added"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:209
+msgid "Order status updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:210
+msgid "Your Order payment not received yet."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:336
+msgid "Mail send to user successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:337
+msgid "Please check email and orderID."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ManageOrderController.php:338
+msgid "Order does not exist"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:160
+msgid "Coupon apply successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:161
+msgid "Please Enter valid coupon code."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:162
+msgid "Your Coupon not valid for this Order Amount."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:181
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:383
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:264
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:312
+#: app/Yantrana/Support/app-helpers.php:154
+msgid "Invalid request please contact administrator."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:308
+msgid "Requested order details not exist"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:364
+msgid "You are not authenticate to cancel order."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:380
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:309
+msgid "Order cancelled successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderController.php:382
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:311
+msgid "Invalid request."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/OrderPaymentsController.php:58
+msgid "Order payment does not exist"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:52
+msgid "Product does not exist, Please reload page."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:53
+msgid "This product is currently not available, Please reload page."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:54
+msgid "This product is out of stock, Please reload page."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:103
+msgid "Item removed successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:104
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:121
+msgid "Item not found."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:120
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:136
+msgid "All items removed successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:137
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:161
+msgid "Items not found."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:138
+msgid "Oh..no..error!."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:162
+msgid "The quantity may not be greater than "
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Controllers/ShoppingCartController.php:287
+#: app/Yantrana/Components/User/Controllers/UserController.php:156
+#: app/Yantrana/Components/User/Controllers/UserController.php:210
+msgid "Invalid Request."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/ManageOrderEngine.php:284
+msgid "Your order __orderId__ has been __orderStatus__."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/ManageOrderEngine.php:287
+msgid ""
+"Your order __orderId__ status has been changed to  <strong> __orderStatus__. "
+"</strong>"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:332
+#: resources/views/order/user/summary.blade.php:80
+#: resources/views/shoppingCart/cart-view.blade.php:111
+msgid "Your cart is empty."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:351
+#: resources/views/order/user/summary.blade.php:107
+msgid ""
+"We're sorry. The highlighted item(s) in your Shopping Cart are currently "
+"unavailable. Please remove the item(s) to proceed."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:368
+msgid "Please select your shipping address."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:373
+msgid "Please select your billing address"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:389
+msgid ""
+"Your coupon may be inactive / expire / invalid, please remove this coupon "
+"and try another code."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:407
+msgid "Invalid shipping rule."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:414
+msgid "We are sorry currently shipping not available for your country."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:441
+msgid "Invalid Checkout Method"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:448
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:457
+msgid ""
+"Some information may be updated from server, Please review your order again "
+"carefully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderEngine.php:476
+msgid "oh..no. error.."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:237
+msgid "Order payment stored successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:240
+msgid "Order payment not stored."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:342
+msgid "Payment Refund Process for __orderUID__ order."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:348
+msgid "Payment refund has been process for __orderUID__ order"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:359
+msgid "Order Refund Successfully."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/OrderPaymentsEngine.php:362
+msgid "Nothing Update"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Requests/UpdateItemInCartRequest.php:75
+msgid "The quantity may not be greater than 9999"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Requests/UpdateItemInCartRequest.php:76
+msgid "The quantity must be at least 1"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Requests/UpdateItemInCartRequest.php:77
+msgid "The quantity field is required."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/Requests/UpdateItemInCartRequest.php:78
+msgid "The quantity must be an integer."
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:281
+msgid "__totalItems__ __itemsInCart__ of __cartTotal__ in your Cart"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:338
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:345
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:369
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:408
+msgid "item"
+msgstr ""
+
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:338
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:345
+#: app/Yantrana/Components/ShoppingCart/ShoppingCartEngine.php:369
+msgid "items"
+msgstr ""
+
+#: app/Yantrana/Components/Store/Controllers/ManageStoreController.php:58
+#: app/Yantrana/Components/Store/ManageStoreEngine.php:314
+msgid "Settings updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Store/Controllers/ManageStoreController.php:59
+msgid "Please select the logo."
+msgstr ""
+
+#: app/Yantrana/Components/Store/Controllers/ManageStoreController.php:60
+msgid "File has an invalid extension, it should be png."
+msgstr ""
+
+#: app/Yantrana/Components/Store/Controllers/ManageStoreController.php:61
+msgid "Settings not updated."
+msgstr ""
+
+#: app/Yantrana/Components/Store/ManageStoreEngine.php:315
+msgid "To take a effect updated settings, please reload page."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/Controllers/TaxController.php:87
+#: app/Yantrana/Components/Tax/Controllers/TaxController.php:129
+#: app/Yantrana/Components/Tax/Controllers/TaxController.php:162
+#: app/Yantrana/Components/Tax/TaxEngine.php:211
+msgid "Tax does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/Controllers/TaxController.php:160
+msgid "Tax deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/TaxEngine.php:132
+msgid "Invalid Country Selected."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/TaxEngine.php:139
+msgid "Tax added successfully."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/TaxEngine.php:219
+msgid "Invalid Country Code."
+msgstr ""
+
+#: app/Yantrana/Components/Tax/TaxEngine.php:255
+msgid "Tax updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:58
+msgid "File uploaded"
+msgstr ""
+
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:59
+msgid "File not uploaded"
+msgstr ""
+
+#: app/Yantrana/Components/UploadManager/Controllers/UploadManagerController.php:60
+msgid "Invalid file"
+msgstr ""
+
+#: app/Yantrana/Components/User/AddressEngine.php:136
+#: app/Yantrana/Components/User/AddressEngine.php:348
+msgid "There are no address."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/AddressController.php:94
+msgid "Address deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/AddressController.php:96
+#: app/Yantrana/Components/User/Controllers/AddressController.php:150
+#: app/Yantrana/Components/User/Controllers/AddressController.php:180
+msgid "Address does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/AddressController.php:112
+msgid "Address stored successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/AddressController.php:113
+msgid "failed to store address."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/AddressController.php:148
+#: app/Yantrana/Components/User/Controllers/AddressController.php:178
+msgid "Address updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:111
+msgid "Welcome, you are logged in successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:112
+msgid ""
+"Authentication failed. Please check your \n"
+"                email/password & try again."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:155
+msgid "We have e-mailed your password reset link."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:208
+msgid "Password reset successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:209
+#: app/Yantrana/Components/User/Controllers/UserController.php:246
+#: app/Yantrana/Components/User/Controllers/UserController.php:572
+msgid "Password not updated."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:244
+#: app/Yantrana/Components/User/Controllers/UserController.php:571
+msgid "Password updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:279
+msgid ""
+"New email activation link has been sent \n"
+"                        to your new email address, please check your email."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:281
+msgid "Email not send."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:282
+msgid ""
+"Authentication failed. Please check your \n"
+"                        password."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:307
+msgid "Your new email activated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:337
+msgid "User register successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:338
+msgid "User register failed."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:339
+msgid ""
+"your account has been already exist, please contact system administrator."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:372
+msgid ""
+"Your account has been activated successfully. Login with your email ID and "
+"password."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:380
+msgid "Account Activation link invalid."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:434
+msgid "Profile updated successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:452
+msgid "User not deleted."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:469
+msgid "User not restore."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:495
+msgid "Mail has been sent successfully, we contact soon"
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:496
+#: app/Yantrana/Components/User/Controllers/UserController.php:605
+msgid "Failed to send mail."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:522
+#: resources/views/user/resend-activation-email-success.blade.php:12
+msgid "Activation mail has been sent successfully, Please check your email..!!"
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:523
+msgid "Request failed."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:524
+msgid "Your account already activated."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:525
+msgid "User with entered email not register."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:573
+msgid "User not exist."
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:588
+msgid "User not exist"
+msgstr ""
+
+#: app/Yantrana/Components/User/Controllers/UserController.php:604
+msgid "Mail has been sent successfully"
+msgstr ""
+
+#: app/Yantrana/Components/User/UserEngine.php:471
+msgid "__fullName__ user deleted successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/UserEngine.php:500
+msgid "__name__ user restore successfully."
+msgstr ""
+
+#: app/Yantrana/Components/User/UserEngine.php:700
+msgid "User does not exist."
+msgstr ""
+
+#: app/Yantrana/Components/__Igniter.php:94
+#: app/Yantrana/Middleware/AdminMiddleware.php:49
+#: app/Yantrana/Middleware/AdminMiddleware.php:57
+#: app/Yantrana/Middleware/AuthenticateMiddleware.php:42
+#: app/Yantrana/Middleware/AuthenticateMiddleware.php:52
+msgid "Please login to complete request."
+msgstr ""
+
+#: app/Yantrana/Components/__Igniter.php:104
+#: app/Yantrana/Middleware/AdminMiddleware.php:65
+#: app/Yantrana/Middleware/AdminMiddleware.php:73
+msgid "Unauthorized."
+msgstr ""
+
+#: app/Yantrana/Core/BaseRequest.php:27
+msgid "Ooops..., looks like something went wrong!"
+msgstr ""
+
+#: app/Yantrana/Core/BaseRequest.php:54
+msgid "Saving functionality is disabled in this demo"
+msgstr ""
+
+#: app/Yantrana/Middleware/VerifyCsrfToken.php:42
+msgid "Invalid Request Token... please reload and try again!!"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:102
+#: resources/views/includes/breadcrumb.blade.php:10
+#: resources/views/manage-master.blade.php:37
+msgid "Home"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:121
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:181
+#: resources/lang/en/js-string.php:53
+#: resources/views/category/list.blade.php:61
+#: resources/views/category/list.blade.php:62
+#: resources/views/category/list.blade.php:88
+#: resources/views/category/list.blade.php:151
+#: resources/views/product/list.blade.php:58
+#: resources/views/product/list.blade.php:60
+#: resources/views/product/list.blade.php:94
+#: resources/views/product/manage/list.blade.php:60
+#: resources/views/product/manage/list.blade.php:61
+#: resources/views/store/edit_settings.blade.php:82
+#: resources/views/store/edit_settings.blade.php:84
+msgid "Products"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:142
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:244
+#: resources/views/includes/sidebar.blade.php:72
+#: resources/views/product/list.blade.php:24
+#: resources/views/product/list.blade.php:27
+msgid "Featured Products"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:165
+msgid "All Product"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:170
+msgid "Search Result"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:191
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:217
+#: resources/views/dashboard/details.blade.php:37
+#: resources/views/dashboard/details.blade.php:39
+#: resources/views/includes/manage-sidebar.blade.php:46
+#: resources/views/includes/manage-sidebar.blade.php:47
+msgid "Brands"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:604
+#: resources/views/address/list-dialog.blade.php:9
+#: resources/views/address/list-dialog.blade.php:25
+#: resources/views/address/list.blade.php:8
+#: resources/views/address/list.blade.php:22
+#: resources/views/includes/top-menu.blade.php:32
+msgid "Addresses"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:624
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:676
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:703
+#: resources/views/shoppingCart/cart-view.blade.php:5
+msgid "Shopping Cart"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:630
+#: resources/views/includes/sidebar.blade.php:45
+#: resources/views/includes/top-menu.blade.php:35
+#: resources/views/manage-master.blade.php:68
+#: resources/views/order/user/details.blade.php:18
+#: resources/views/order/user/details.blade.php:33
+msgid "My Orders"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:650
+msgid "My Order"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:656
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:783
+#: resources/views/order/manage/details-view.blade.php:24
+#: resources/views/order/manage/details.blade.php:20
+#: resources/views/order/user/details.blade.php:52
+#: resources/views/product/list.blade.php:250
+#: resources/views/product/list.blade.php:348
+#: resources/views/product/manage/edit-details.blade.php:5
+#: resources/views/product/manage/edit.blade.php:33
+#: resources/views/report/manage/details-dialog.blade.php:34
+msgid "Details"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:682
+msgid "Order Summary"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:726
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:732
+#: resources/views/includes/sidebar.blade.php:33
+#: resources/views/includes/top-menu.blade.php:23
+#: resources/views/manage-master.blade.php:49
+#: resources/views/manage-master.blade.php:50
+#: resources/views/user/manage-profile.blade.php:5
+#: resources/views/user/profile.blade.php:4
+msgid "Profile"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:730
+#: resources/views/address/list-dialog.blade.php:76
+#: resources/views/address/list.blade.php:48
+#: resources/views/brand/manage/list.blade.php:73
+#: resources/views/brand/manage/list.blade.php:74
+#: resources/views/category/list.blade.php:16
+#: resources/views/category/list.blade.php:141
+#: resources/views/coupon/manage/list.blade.php:140
+#: resources/views/coupon/manage/list.blade.php:141
+#: resources/views/pages/display-details.blade.php:12
+#: resources/views/pages/manage/list.blade.php:6
+#: resources/views/pages/manage/list.blade.php:116
+#: resources/views/product/details.blade.php:9
+#: resources/views/product/details.blade.php:12
+#: resources/views/product/details.blade.php:46
+#: resources/views/product/manage/Images/list.blade.php:40
+#: resources/views/product/manage/Images/list.blade.php:41
+#: resources/views/product/manage/list.blade.php:16
+#: resources/views/product/manage/list.blade.php:133
+#: resources/views/product/manage/list.blade.php:134
+#: resources/views/product/manage/options/list.blade.php:41
+#: resources/views/product/manage/options/list.blade.php:48
+#: resources/views/product/manage/options/list.blade.php:49
+#: resources/views/product/manage/specification/list.blade.php:35
+#: resources/views/product/manage/specification/list.blade.php:36
+#: resources/views/shipping/manage/list.blade.php:183
+#: resources/views/shipping/manage/list.blade.php:184
+#: resources/views/tax/manage/list.blade.php:88
+#: resources/views/tax/manage/list.blade.php:89
+#: resources/views/user/manage-profile.blade.php:26
+#: resources/views/user/profile.blade.php:24
+msgid "Edit"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:739
+#: resources/views/includes/sidebar.blade.php:36
+#: resources/views/includes/top-menu.blade.php:26
+#: resources/views/manage-master.blade.php:54
+#: resources/views/manage-master.blade.php:55
+#: resources/views/user/change-password.blade.php:5
+#: resources/views/user/manage/list.blade.php:106
+msgid "Change Password"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:743
+#: resources/views/includes/sidebar.blade.php:39
+#: resources/views/includes/top-menu.blade.php:29
+#: resources/views/manage-master.blade.php:59
+#: resources/views/manage-master.blade.php:60
+#: resources/views/user/change-email.blade.php:7
+msgid "Change Email"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:747
+#: resources/lang/en/js-string.php:44 resources/views/user/login.blade.php:12
+#: resources/views/user/login.blade.php:83
+msgid "Login"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:751
+#: resources/lang/en/js-string.php:47 resources/views/user/register.blade.php:5
+#: resources/views/user/register.blade.php:114
+#: resources/views/user/register.blade.php:120
+msgid "Register"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:755
+#: resources/views/user/forgot-password.blade.php:5
+msgid "Forgot Password"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:759
+#: resources/views/order/manage/contact-user.blade.php:5
+#: resources/views/order/user/contact-store.blade.php:5
+#: resources/views/store/edit_settings.blade.php:128
+#: resources/views/store/edit_settings.blade.php:130
+#: resources/views/user/contact.blade.php:5
+#: resources/views/user/manage/contact.blade.php:5
+#: resources/views/user/manage/list.blade.php:113
+msgid "Contact"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:763
+#: resources/views/includes/foot-content.blade.php:26
+#: resources/views/includes/foot-content.blade.php:27
+#: resources/views/privacy-policy.blade.php:6
+#: resources/views/privacy-policy.blade.php:8
+#: resources/views/store/edit_settings.blade.php:174
+#: resources/views/store/edit_settings.blade.php:176
+msgid "Privacy Policy"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:767
+msgid "Terms & Condition"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:771
+#: resources/views/user/resend-activation-email.blade.php:6
+msgid "Resend Activation Email"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:775
+#: resources/views/user/reset-password.blade.php:5
+#: resources/views/user/reset-password.blade.php:50
+msgid "Reset Password"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:779
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:785
+#: resources/views/dashboard/details.blade.php:52
+#: resources/views/dashboard/details.blade.php:55
+#: resources/views/includes/manage-sidebar.blade.php:65
+#: resources/views/includes/manage-sidebar.blade.php:66
+#: resources/views/order/user/list.blade.php:5
+#: resources/views/report/manage/list.blade.php:142
+msgid "Orders"
+msgstr ""
+
+#: app/Yantrana/Support/Breadcrumb/Breadcrumb.php:792
+msgid "Shopping-Cart"
+msgstr ""
+
+#: app/Yantrana/Support/ShoppingCart/ShoppingCart.php:435
+#: app/Yantrana/Support/ShoppingCart/ShoppingCart.php:436
+msgid "Nil"
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:875 resources/lang/en/js-string.php:20
+#: resources/views/product/manage/list.blade.php:186
+msgid "Yes"
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:876 resources/lang/en/js-string.php:56
+#: resources/views/product/manage/list.blade.php:188
+msgid "No"
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:1333
+#: resources/views/product/add-to-cart-form.blade.php:132
+#: resources/views/product/details-dialog.blade.php:179
+#: resources/views/product/details.blade.php:53
+#: resources/views/product/details.blade.php:255
+#: resources/views/product/manage/detail-dialog.blade.php:98
+#: resources/views/product/manage/list.blade.php:177
+msgid "Out of Stock"
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:1335
+msgid "Product currently not available"
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:1341
+msgid ""
+"Highlighted item in the cart seems currently not available/changed, please "
+"remove it."
+msgstr ""
+
+#: app/Yantrana/Support/app-helpers.php:1379
+msgid "Cart is empty"
+msgstr ""
+
+#: app/Yantrana/Support/php-gettext-1.0.12/examples/pigs_dropin.php:77
+msgid ""
+"This is how the story goes.\n"
+"\n"
+msgstr ""
+
+#: app/Yantrana/__Laraware/Core/CoreRequest.php:106
+msgid "Invalid Request Inputs ... !!"
+msgstr ""
+
+#: resources/lang/en/js-string.php:15
+msgid "Are you sure?"
+msgstr ""
+
+#: resources/lang/en/js-string.php:16
+msgid "Deleted!"
+msgstr ""
+
+#: resources/lang/en/js-string.php:17 resources/views/address/add.blade.php:100
+#: resources/views/address/edit.blade.php:100
+#: resources/views/brand/manage/add-dialog.blade.php:71
+#: resources/views/brand/manage/delete-dialog.blade.php:47
+#: resources/views/brand/manage/edit-dialog.blade.php:76
+#: resources/views/category/add-dialog.blade.php:63
+#: resources/views/category/delete-dialog.blade.php:35
+#: resources/views/category/edit-dialog.blade.php:63
+#: resources/views/coupon/manage/add-dialog.blade.php:189
+#: resources/views/coupon/manage/edit-dialog.blade.php:185
+#: resources/views/order/manage/refund-dialog.blade.php:101
+#: resources/views/order/manage/update-payment-dialog.blade.php:106
+#: resources/views/order/manage/update.blade.php:63
+#: resources/views/pages/manage/add.blade.php:121
+#: resources/views/pages/manage/edit.blade.php:110
+#: resources/views/product/manage/Images/add-dialog.blade.php:44
+#: resources/views/product/manage/Images/edit-dialog.blade.php:26
+#: resources/views/product/manage/add.blade.php:200
+#: resources/views/product/manage/edit-details.blade.php:191
+#: resources/views/product/manage/options/add-dialog.blade.php:65
+#: resources/views/product/manage/options/edit-dialog.blade.php:27
+#: resources/views/product/manage/options/values/list-dialog.blade.php:61
+#: resources/views/product/manage/specification/add-dialog.blade.php:58
+#: resources/views/product/manage/specification/edit-dialog.blade.php:53
+#: resources/views/shipping/manage/add-dialog.blade.php:94
+#: resources/views/shipping/manage/edit-dialog.blade.php:98
+#: resources/views/tax/manage/add-dialog.blade.php:76
+#: resources/views/tax/manage/edit-dialog.blade.php:77
+#: resources/views/user/manage/change-password.blade.php:47
+msgid "Cancel"
+msgstr ""
+
+#: resources/lang/en/js-string.php:18
+msgid "Yes, delete it"
+msgstr ""
+
+#: resources/lang/en/js-string.php:19
+msgid "Reload"
+msgstr ""
+
+#: resources/lang/en/js-string.php:21
+msgid "Yes, restore it"
+msgstr ""
+
+#: resources/lang/en/js-string.php:22
+msgid "you want to delete __name__ user."
+msgstr ""
+
+#: resources/lang/en/js-string.php:23
+msgid "you want to restore __name__ user."
+msgstr ""
+
+#: resources/lang/en/js-string.php:24
+msgid "you want to delete __name__ product."
+msgstr ""
+
+#: resources/lang/en/js-string.php:25
+msgid "you want to delete __title__ product image."
+msgstr ""
+
+#: resources/lang/en/js-string.php:26
+msgid "you want to delete __name__ product option."
+msgstr ""
+
+#: resources/lang/en/js-string.php:27
+msgid "you want to delete __name__ product specification."
+msgstr ""
+
+#: resources/lang/en/js-string.php:28
+msgid "you want to delete option value."
+msgstr ""
+
+#: resources/lang/en/js-string.php:29
+msgid "It will be values for __option_name__ option dropdown."
+msgstr ""
+
+#: resources/lang/en/js-string.php:30
+msgid "Add Product for __name__ category"
+msgstr ""
+
+#: resources/lang/en/js-string.php:31
+msgid "Edit Product : __name__"
+msgstr ""
+
+#: resources/lang/en/js-string.php:34
+msgid ""
+"you want to delete <strong> __name__ </strong> category, all the products "
+"belongs to this category will be deleted"
+msgstr ""
+
+#: resources/lang/en/js-string.php:35
+msgid "by entering confirmation number"
+msgstr ""
+
+#: resources/lang/en/js-string.php:36
+msgid "Please confirm"
+msgstr ""
+
+#: resources/lang/en/js-string.php:37
+msgid "Please confirm your decision by entering correct number."
+msgstr ""
+
+#: resources/lang/en/js-string.php:38
+msgid "You have entered wrong confirmation number."
+msgstr ""
+
+#: resources/lang/en/js-string.php:39
+msgid "Add Category in __name__"
+msgstr ""
+
+#: resources/lang/en/js-string.php:41
+msgid "you want to delete __name__ page."
+msgstr ""
+
+#: resources/lang/en/js-string.php:43
+msgid "Change password"
+msgstr ""
+
+#: resources/lang/en/js-string.php:45
+msgid "Forgot password"
+msgstr ""
+
+#: resources/lang/en/js-string.php:46
+msgid "Edit profile"
+msgstr ""
+
+#: resources/lang/en/js-string.php:48
+msgid "Change email"
+msgstr ""
+
+#: resources/lang/en/js-string.php:49
+msgid "User account activation"
+msgstr ""
+
+#: resources/lang/en/js-string.php:50
+msgid "User new email activation"
+msgstr ""
+
+#: resources/lang/en/js-string.php:51
+msgid "Reset password"
+msgstr ""
+
+#: resources/lang/en/js-string.php:52
+msgid "Featured products"
+msgstr ""
+
+#: resources/lang/en/js-string.php:54
+msgid "you want to cancel this order"
+msgstr ""
+
+#: resources/lang/en/js-string.php:55
+msgid "Yes, cancel it"
+msgstr ""
+
+#: resources/lang/en/js-string.php:57
+msgid "Success"
+msgstr ""
+
+#: resources/lang/en/js-string.php:58
+msgid "Your order has been placed successfully."
+msgstr ""
+
+#: resources/lang/en/js-string.php:59
+msgid "Your order __orderID__"
+msgstr ""
+
+#: resources/lang/en/js-string.php:60
+msgid "Continues Shopping"
+msgstr ""
+
+#: resources/lang/en/js-string.php:61
+msgid "you want to delete <strong> __name__ </strong> brand."
+msgstr ""
+
+#: resources/lang/en/js-string.php:62
+msgid "you want to delete __name__ coupon."
+msgstr ""
+
+#: resources/lang/en/js-string.php:63
+msgid "you want to delete this shipping rule."
+msgstr ""
+
+#: resources/lang/en/js-string.php:64
+msgid "you want to delete this tax."
+msgstr ""
+
+#: resources/lang/en/js-string.php:65
+msgid "you want to delete this address."
+msgstr ""
+
+#: resources/lang/en/js-string.php:66
+msgid "Uploading.."
+msgstr ""
+
+#: resources/lang/en/js-string.php:67
+msgid "file uploaded"
+msgstr ""
+
+#: resources/lang/en/js-string.php:68
+msgid "Change Password of __name__"
+msgstr ""
+
+#: resources/lang/en/js-string.php:69
+msgid "Update Order of __name__ ( __orderUID__ ) "
+msgstr ""
+
+#: resources/lang/en/js-string.php:70
+msgid "Reinitiate Order of __name__ ( __orderUID__ ) "
+msgstr ""
+
+#: resources/lang/en/js-string.php:71
+#: resources/views/product/list.blade.php:382
+msgid "Addon option may affect price."
+msgstr ""
+
+#: resources/lang/en/js-string.php:72
+msgid "Order Payment Update successfully."
+msgstr ""
+
+#: resources/lang/en/js-string.php:73
+msgid "Do you want to change order status also."
+msgstr ""
+
+#: resources/lang/en/js-string.php:74
+msgid "Order Status Changed to cancel."
+msgstr ""
+
+#: resources/lang/en/js-string.php:75
+msgid "Do you want to process to change payment refund also."
+msgstr ""
+
+#: resources/lang/en/js-string.php:76
+msgid "Manage Orders of __name__"
+msgstr ""
+
+#: resources/lang/en/js-string.php:77
+msgid "All"
+msgstr ""
+
+#: resources/lang/en/js-string.php:78
+msgid "Minimum __amount__ order amount is required for the requested coupon."
+msgstr ""
+
+#: resources/lang/en/validation.php:16
+msgid "The __attribute__ must be accepted."
+msgstr ""
+
+#: resources/lang/en/validation.php:19
+msgid "The __attribute__ is not a valid URL."
+msgstr ""
+
+#: resources/lang/en/validation.php:22
+msgid "The __attribute__ must be a date after __date__."
+msgstr ""
+
+#: resources/lang/en/validation.php:26
+msgid "The __attribute__ may only contain letters."
+msgstr ""
+
+#: resources/lang/en/validation.php:29
+msgid "The __attribute__ may only contain letters, numbers, and dashes."
+msgstr ""
+
+#: resources/lang/en/validation.php:32
+msgid "The __attribute__ may only contain letters and numbers."
+msgstr ""
+
+#: resources/lang/en/validation.php:35
+msgid "The __attribute__ must be an array."
+msgstr ""
+
+#: resources/lang/en/validation.php:38
+msgid "The __attribute__ must be a date before __date__."
+msgstr ""
+
+#: resources/lang/en/validation.php:43
+msgid "The __attribute__ must be between __min__ and __max__."
+msgstr ""
+
+#: resources/lang/en/validation.php:48
+msgid "The __attribute__ must be between __min__ and __max__ kilobytes."
+msgstr ""
+
+#: resources/lang/en/validation.php:53
+msgid "The __attribute__ must be between __min__ and __max__ characters."
+msgstr ""
+
+#: resources/lang/en/validation.php:58
+msgid "The __attribute__ must have between __min__ and __max__ items."
+msgstr ""
+
+#: resources/lang/en/validation.php:64
+msgid "The __attribute__ field must be true or false."
+msgstr ""
+
+#: resources/lang/en/validation.php:67
+msgid "The __attribute__ confirmation does not match."
+msgstr ""
+
+#: resources/lang/en/validation.php:70
+msgid "The __attribute__ is not a valid date."
+msgstr ""
+
+#: resources/lang/en/validation.php:73
+msgid "The __attribute__ does not match the format __format__."
+msgstr ""
+
+#: resources/lang/en/validation.php:77
+msgid "The __attribute__ and __other__ must be different."
+msgstr ""
+
+#: resources/lang/en/validation.php:81
+msgid "The __attribute__ must be __digits__ digits."
+msgstr ""
+
+#: resources/lang/en/validation.php:85
+msgid "The __attribute__ must be between __min__ and __max__ digits."
+msgstr ""
+
+#: resources/lang/en/validation.php:90
+msgid "The __attribute__ field has a duplicate value."
+msgstr ""
+
+#: resources/lang/en/validation.php:93
+msgid "The __attribute__ must be a valid email address."
+msgstr ""
+
+#: resources/lang/en/validation.php:96 resources/lang/en/validation.php:105
+#: resources/lang/en/validation.php:162
+msgid "The selected __attribute__ is invalid."
+msgstr ""
+
+#: resources/lang/en/validation.php:99 resources/lang/en/validation.php:174
+msgid "The __attribute__ field is required."
+msgstr ""
+
+#: resources/lang/en/validation.php:102
+msgid "The __attribute__ must be an image."
+msgstr ""
+
+#: resources/lang/en/validation.php:108
+msgid "The __attribute__ field does not exist in __other__."
+msgstr ""
+
+#: resources/lang/en/validation.php:112
+msgid "The __attribute__ must be an integer."
+msgstr ""
+
+#: resources/lang/en/validation.php:115
+msgid "The __attribute__ must be a valid IP address."
+msgstr ""
+
+#: resources/lang/en/validation.php:118
+msgid "The __attribute__ must be a valid JSON string."
+msgstr ""
+
+#: resources/lang/en/validation.php:122
+msgid "The __attribute__ may not be greater than __max__."
+msgstr ""
+
+#: resources/lang/en/validation.php:126
+msgid "The __attribute__ may not be greater than __max__ kilobytes."
+msgstr ""
+
+#: resources/lang/en/validation.php:130
+msgid "The __attribute__ may not be greater than __max__ characters."
+msgstr ""
+
+#: resources/lang/en/validation.php:135
+msgid "The __attribute__ may not have more than __max__ items."
+msgstr ""
+
+#: resources/lang/en/validation.php:140
+msgid "The __attribute__ must be a file of type: __values__."
+msgstr ""
+
+#: resources/lang/en/validation.php:145
+msgid "The __attribute__ must be at least __min__."
+msgstr ""
+
+#: resources/lang/en/validation.php:149
+msgid "The __attribute__ must be at least __min__ kilobytes."
+msgstr ""
+
+#: resources/lang/en/validation.php:153
+msgid "The __attribute__ must be at least __min__ characters."
+msgstr ""
+
+#: resources/lang/en/validation.php:157
+msgid "The __attribute__ must have at least __min__ items."
+msgstr ""
+
+#: resources/lang/en/validation.php:165
+msgid "The __attribute__ must be a number."
+msgstr ""
+
+#: resources/lang/en/validation.php:168
+msgid "The __attribute__ field must be present."
+msgstr ""
+
+#: resources/lang/en/validation.php:171 resources/lang/en/validation.php:233
+#: resources/lang/en/validation.php:265
+msgid "The __attribute__ format is invalid."
+msgstr ""
+
+#: resources/lang/en/validation.php:177
+msgid "The __attribute__ field is required when :other is __value__."
+msgstr ""
+
+#: resources/lang/en/validation.php:181
+msgid "The __attribute__ field is required unless __other__ is in __values__."
+msgstr ""
+
+#: resources/lang/en/validation.php:186 resources/lang/en/validation.php:190
+msgid "The __attribute__ field is required when __values__ is present."
+msgstr ""
+
+#: resources/lang/en/validation.php:194
+msgid "The __attribute__ field is required when __values__ is not present."
+msgstr ""
+
+#: resources/lang/en/validation.php:198
+msgid ""
+"The __attribute__ field is required when none of __values__ are present."
+msgstr ""
+
+#: resources/lang/en/validation.php:202
+msgid "The __attribute__ and __other__ must match."
+msgstr ""
+
+#: resources/lang/en/validation.php:207
+msgid "The __attribute__ must be __size__."
+msgstr ""
+
+#: resources/lang/en/validation.php:211
+msgid "The __attribute__ must be __size__ kilobytes."
+msgstr ""
+
+#: resources/lang/en/validation.php:215
+msgid "The __attribute__ must be __size__ characters."
+msgstr ""
+
+#: resources/lang/en/validation.php:219
+msgid "The __attribute__ must contain __size__ items."
+msgstr ""
+
+#: resources/lang/en/validation.php:224
+msgid "The __attribute__ must be a string."
+msgstr ""
+
+#: resources/lang/en/validation.php:227
+msgid "The __attribute__ must be a valid zone."
+msgstr ""
+
+#: resources/lang/en/validation.php:230 resources/lang/en/validation.php:252
+#: resources/lang/en/validation.php:255 resources/lang/en/validation.php:260
+msgid "The __attribute__ has already been taken."
+msgstr ""
+
+#: resources/lang/en/validation.php:249
+msgid "The confirmation code is invalid."
+msgstr ""
+
+#: resources/lang/en/validation.php:273
+msgid "Ooops... No changes made!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:274
+msgid "Ooops... Nothing to process!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:275
+msgid "It seems you didn't modified anything!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:278
+msgid "Please wait files uploading in progress ..."
+msgstr ""
+
+#: resources/lang/en/validation.php:279
+msgid "Please wait a while its in progress ..."
+msgstr ""
+
+#: resources/lang/en/validation.php:281
+msgid "Files uploaded successfully"
+msgstr ""
+
+#: resources/lang/en/validation.php:283
+msgid "Oh..no...Something left invalid!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:284
+msgid "Ooops... Validation Errrrors...!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:285
+msgid "Oh... it looks invalid...!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:286
+msgid "Something went wrong with validation!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:288
+msgid "Request processed successfully"
+msgstr ""
+
+#: resources/lang/en/validation.php:289
+msgid "Invalid request access"
+msgstr ""
+
+#: resources/lang/en/validation.php:290
+msgid "Oooops ... something went wrong on server. Try after some time!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:292
+msgid "Invalid request token. Please reload page and try again!!"
+msgstr ""
+
+#: resources/lang/en/validation.php:293
+msgid "Request token Expired. Please reload page and try again!!"
+msgstr ""
+
+#: resources/views/address/add.blade.php:5
+#: resources/views/address/list-dialog.blade.php:15
+#: resources/views/address/list.blade.php:14
+msgid "Add New Address"
+msgstr ""
+
+#: resources/views/address/add.blade.php:15
+#: resources/views/address/edit.blade.php:17
+#: resources/views/order/manage/details-view.blade.php:74
+#: resources/views/order/manage/details.blade.php:70
+#: resources/views/order/user/details.blade.php:102
+#: resources/views/pages/manage/add.blade.php:27
+#: resources/views/pages/manage/edit.blade.php:36
+#: resources/views/pages/manage/list.blade.php:22
+#: resources/views/report/manage/details-dialog.blade.php:84
+#: resources/views/shipping/manage/list.blade.php:40
+#: resources/views/tax/manage/add-dialog.blade.php:32
+#: resources/views/tax/manage/edit-dialog.blade.php:33
+#: resources/views/tax/manage/list.blade.php:27
+msgid "Type"
+msgstr ""
+
+#: resources/views/address/add.blade.php:25
+#: resources/views/address/edit.blade.php:26
+msgid "Address 1"
+msgstr ""
+
+#: resources/views/address/add.blade.php:35
+#: resources/views/address/edit.blade.php:36
+msgid "Address 2"
+msgstr ""
+
+#: resources/views/address/add.blade.php:45
+#: resources/views/address/edit.blade.php:46
+msgid "City"
+msgstr ""
+
+#: resources/views/address/add.blade.php:55
+#: resources/views/address/edit.blade.php:56
+msgid "State"
+msgstr ""
+
+#: resources/views/address/add.blade.php:65
+#: resources/views/address/edit.blade.php:66
+#: resources/views/shipping/manage/add-dialog.blade.php:15
+#: resources/views/shipping/manage/detail-dialog.blade.php:17
+#: resources/views/shipping/manage/edit-dialog.blade.php:15
+#: resources/views/shipping/manage/list.blade.php:39
+#: resources/views/tax/manage/add-dialog.blade.php:15
+#: resources/views/tax/manage/detail-dialog.blade.php:16
+#: resources/views/tax/manage/edit-dialog.blade.php:15
+#: resources/views/tax/manage/list.blade.php:26
+msgid "Country"
+msgstr ""
+
+#: resources/views/address/add.blade.php:66
+#: resources/views/address/edit.blade.php:67
+#: resources/views/shipping/manage/add-dialog.blade.php:16
+#: resources/views/tax/manage/add-dialog.blade.php:16
+#: resources/views/tax/manage/edit-dialog.blade.php:16
+msgid "Select Country"
+msgstr ""
+
+#: resources/views/address/add.blade.php:71
+#: resources/views/address/edit.blade.php:72
+#: resources/views/address/list.blade.php:43
+#: resources/views/order/manage/details-view.blade.php:243
+#: resources/views/order/manage/details-view.blade.php:267
+#: resources/views/order/manage/details-view.blade.php:292
+#: resources/views/order/manage/details.blade.php:241
+#: resources/views/order/manage/details.blade.php:265
+#: resources/views/order/manage/details.blade.php:290
+#: resources/views/order/user/details.blade.php:284
+#: resources/views/order/user/details.blade.php:308
+#: resources/views/order/user/details.blade.php:333
+#: resources/views/report/manage/details-dialog.blade.php:262
+#: resources/views/report/manage/details-dialog.blade.php:286
+#: resources/views/report/manage/details-dialog.blade.php:311
+msgid "Pin Code"
+msgstr ""
+
+#: resources/views/address/add.blade.php:82
+#: resources/views/address/edit.blade.php:82
+#: resources/views/address/list-dialog.blade.php:69
+msgid "Make Primary"
+msgstr ""
+
+#: resources/views/address/add.blade.php:96
+#: resources/views/category/add-dialog.blade.php:62
+#: resources/views/order/manage/contact-user.blade.php:70
+#: resources/views/order/user/contact-store.blade.php:68
+#: resources/views/user/contact.blade.php:56
+#: resources/views/user/manage/contact.blade.php:59
+msgid "Submit"
+msgstr ""
+
+#: resources/views/address/edit.blade.php:5
+msgid "Edit Address"
+msgstr ""
+
+#: resources/views/address/edit.blade.php:96
+#: resources/views/brand/manage/edit-dialog.blade.php:74
+#: resources/views/brand/manage/edit-dialog.blade.php:75
+#: resources/views/category/edit-dialog.blade.php:62
+#: resources/views/coupon/manage/edit-dialog.blade.php:184
+#: resources/views/order/manage/list.blade.php:149
+#: resources/views/order/manage/refund-dialog.blade.php:97
+#: resources/views/order/manage/update-payment-dialog.blade.php:101
+#: resources/views/order/manage/update-payment-dialog.blade.php:102
+#: resources/views/order/manage/update.blade.php:61
+#: resources/views/pages/manage/edit.blade.php:109
+#: resources/views/product/manage/Images/edit-dialog.blade.php:25
+#: resources/views/product/manage/edit-details.blade.php:189
+#: resources/views/product/manage/options/edit-dialog.blade.php:26
+#: resources/views/product/manage/options/values/list-dialog.blade.php:60
+#: resources/views/product/manage/specification/edit-dialog.blade.php:52
+#: resources/views/shipping/manage/edit-dialog.blade.php:97
+#: resources/views/shipping/manage/list.blade.php:135
+#: resources/views/store/contact.blade.php:33
+#: resources/views/store/contact.blade.php:34
+#: resources/views/store/currency.blade.php:56
+#: resources/views/store/currency.blade.php:57
+#: resources/views/store/general.blade.php:91
+#: resources/views/store/general.blade.php:92
+#: resources/views/store/order.blade.php:158
+#: resources/views/store/order.blade.php:159
+#: resources/views/store/placement.blade.php:73
+#: resources/views/store/placement.blade.php:74
+#: resources/views/store/privacy-policy.blade.php:22
+#: resources/views/store/privacy-policy.blade.php:23
+#: resources/views/store/product.blade.php:40
+#: resources/views/store/product.blade.php:41
+#: resources/views/store/social.blade.php:35
+#: resources/views/store/social.blade.php:36
+#: resources/views/store/term-condition.blade.php:29
+#: resources/views/store/term-condition.blade.php:30
+#: resources/views/tax/manage/edit-dialog.blade.php:76
+#: resources/views/user/profile-edit.blade.php:36
+msgid "Update"
+msgstr ""
+
+#: resources/views/address/list-dialog.blade.php:34
+#: resources/views/address/list.blade.php:29
+msgid "Primary"
+msgstr ""
+
+#: resources/views/address/list-dialog.blade.php:60
+#: resources/views/order/user/summary.blade.php:234
+#: resources/views/order/user/summary.blade.php:307
+msgid "Pincode"
+msgstr ""
+
+#: resources/views/address/list-dialog.blade.php:80
+#: resources/views/address/list.blade.php:52
+#: resources/views/brand/manage/delete-dialog.blade.php:43
+#: resources/views/brand/manage/list.blade.php:76
+#: resources/views/brand/manage/list.blade.php:77
+#: resources/views/category/delete-dialog.blade.php:34
+#: resources/views/category/list.blade.php:141
+#: resources/views/coupon/manage/list.blade.php:143
+#: resources/views/coupon/manage/list.blade.php:144
+#: resources/views/pages/manage/list.blade.php:118
+#: resources/views/product/manage/Images/list.blade.php:42
+#: resources/views/product/manage/Images/list.blade.php:43
+#: resources/views/product/manage/list.blade.php:135
+#: resources/views/product/manage/list.blade.php:136
+#: resources/views/product/manage/options/list.blade.php:50
+#: resources/views/product/manage/options/list.blade.php:51
+#: resources/views/product/manage/specification/list.blade.php:37
+#: resources/views/product/manage/specification/list.blade.php:38
+#: resources/views/product/manage/uploaded-media.blade.php:34
+#: resources/views/product/manage/uploaded-media.blade.php:39
+#: resources/views/shipping/manage/list.blade.php:186
+#: resources/views/shipping/manage/list.blade.php:187
+#: resources/views/tax/manage/list.blade.php:91
+#: resources/views/tax/manage/list.blade.php:92
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:25
+#: resources/views/user/manage/list.blade.php:103
+msgid "Delete"
+msgstr ""
+
+#: resources/views/address/list-dialog.blade.php:88
+msgid "There are no address found"
+msgstr ""
+
+#: resources/views/address/list-dialog.blade.php:98
+#: resources/views/brand/manage/detail-dialog.blade.php:50
+#: resources/views/coupon/manage/detail-dialog.blade.php:88
+#: resources/views/order/manage/contact-user.blade.php:74
+#: resources/views/order/manage/details.blade.php:383
+#: resources/views/order/manage/log.blade.php:23
+#: resources/views/order/manage/payment-details-dialog.blade.php:43
+#: resources/views/order/manage/raw-data-dialog.blade.php:29
+#: resources/views/order/user/contact-store.blade.php:72
+#: resources/views/product/filter-dialog.blade.php:135
+#: resources/views/product/filter-dialog.blade.php:136
+#: resources/views/product/manage/detail-dialog.blade.php:214
+#: resources/views/product/manage/uploaded-media.blade.php:51
+#: resources/views/report/manage/details-dialog.blade.php:396
+#: resources/views/shipping/manage/detail-dialog.blade.php:72
+#: resources/views/tax/manage/detail-dialog.blade.php:71
+#: resources/views/user/manage/contact.blade.php:63
+#: resources/views/user/manage/user-details.blade.php:126
+msgid "Close"
+msgstr ""
+
+#: resources/views/address/list.blade.php:59
+msgid "There are no addresses found."
+msgstr ""
+
+#: resources/views/brand/list.blade.php:6
+#: resources/views/brand/list.blade.php:8
+#: resources/views/includes/sidebar.blade.php:82
+msgid "Shop by Brands"
+msgstr ""
+
+#: resources/views/brand/list.blade.php:32
+msgid "No brands available here."
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:5
+msgid "Add Brand"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:16
+#: resources/views/brand/manage/detail-dialog.blade.php:16
+#: resources/views/brand/manage/edit-dialog.blade.php:16
+#: resources/views/brand/manage/list.blade.php:24
+#: resources/views/brand/manage/list.blade.php:52
+#: resources/views/category/add-dialog.blade.php:20
+#: resources/views/category/edit-dialog.blade.php:20
+#: resources/views/category/list.blade.php:85
+#: resources/views/category/list.blade.php:113
+#: resources/views/order/manage/list.blade.php:40
+#: resources/views/order/manage/list.blade.php:61
+#: resources/views/order/manage/list.blade.php:83
+#: resources/views/product/list.blade.php:176
+#: resources/views/product/manage/add.blade.php:24
+#: resources/views/product/manage/detail-dialog.blade.php:34
+#: resources/views/product/manage/edit-details.blade.php:20
+#: resources/views/product/manage/list.blade.php:86
+#: resources/views/product/manage/options/add-dialog.blade.php:15
+#: resources/views/product/manage/options/edit-dialog.blade.php:14
+#: resources/views/product/manage/options/list.blade.php:21
+#: resources/views/product/manage/specification/add-dialog.blade.php:17
+#: resources/views/product/manage/specification/edit-dialog.blade.php:15
+#: resources/views/product/manage/specification/list.blade.php:18
+#: resources/views/report/manage/list.blade.php:155
+#: resources/views/user/manage/list.blade.php:34
+#: resources/views/user/manage/list.blade.php:54
+#: resources/views/user/manage/list.blade.php:73
+msgid "Name"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:29
+#: resources/views/brand/manage/edit-dialog.blade.php:37
+#: resources/views/brand/manage/list.blade.php:23
+msgid "Logo"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:30
+#: resources/views/brand/manage/edit-dialog.blade.php:38
+msgid "Select Logo"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:35
+#: resources/views/product/manage/Images/add-dialog.blade.php:31
+#: resources/views/product/manage/add.blade.php:113
+#: resources/views/product/manage/edit-details.blade.php:118
+#: resources/views/store/general.blade.php:39
+msgid "Upload New Images"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:38
+#: resources/views/brand/manage/add-dialog.blade.php:39
+#: resources/views/product/manage/Images/add-dialog.blade.php:34
+#: resources/views/product/manage/Images/add-dialog.blade.php:35
+#: resources/views/product/manage/add.blade.php:116
+#: resources/views/product/manage/add.blade.php:118
+#: resources/views/product/manage/edit-details.blade.php:121
+#: resources/views/product/manage/edit-details.blade.php:122
+#: resources/views/store/general.blade.php:42
+#: resources/views/store/general.blade.php:44
+msgid "Uploaded Images"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:46
+#: resources/views/brand/manage/edit-dialog.blade.php:54
+#: resources/views/coupon/manage/add-dialog.blade.php:168
+#: resources/views/coupon/manage/edit-dialog.blade.php:164
+#: resources/views/pages/manage/add.blade.php:37
+#: resources/views/pages/manage/edit.blade.php:27
+#: resources/views/product/manage/Images/list.blade.php:20
+#: resources/views/product/manage/add.blade.php:168
+#: resources/views/product/manage/detail-dialog.blade.php:75
+#: resources/views/product/manage/edit-details.blade.php:173
+msgid "Description"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:53
+#: resources/views/brand/manage/detail-dialog.blade.php:23
+#: resources/views/brand/manage/edit-dialog.blade.php:61
+#: resources/views/brand/manage/list.blade.php:26
+#: resources/views/category/add-dialog.blade.php:49
+#: resources/views/category/edit-dialog.blade.php:49
+#: resources/views/coupon/manage/add-dialog.blade.php:175
+#: resources/views/coupon/manage/edit-dialog.blade.php:171
+#: resources/views/order/manage/details-view.blade.php:70
+#: resources/views/order/manage/details-view.blade.php:124
+#: resources/views/order/manage/details.blade.php:66
+#: resources/views/order/manage/details.blade.php:120
+#: resources/views/order/manage/update.blade.php:29
+#: resources/views/order/user/details.blade.php:98
+#: resources/views/order/user/details.blade.php:151
+#: resources/views/order/user/list.blade.php:37
+#: resources/views/order/user/list.blade.php:54
+#: resources/views/order/user/list.blade.php:72
+#: resources/views/pages/manage/list.blade.php:26
+#: resources/views/product/manage/detail-dialog.blade.php:109
+#: resources/views/report/manage/details-dialog.blade.php:80
+#: resources/views/report/manage/details-dialog.blade.php:134
+#: resources/views/report/manage/list.blade.php:74
+#: resources/views/report/manage/list.blade.php:156
+#: resources/views/shipping/manage/add-dialog.blade.php:82
+#: resources/views/shipping/manage/edit-dialog.blade.php:86
+#: resources/views/tax/manage/add-dialog.blade.php:64
+#: resources/views/tax/manage/detail-dialog.blade.php:46
+#: resources/views/tax/manage/edit-dialog.blade.php:65
+msgid "Status"
+msgstr ""
+
+#: resources/views/brand/manage/add-dialog.blade.php:67
+#: resources/views/category/add-dialog.blade.php:62
+#: resources/views/coupon/manage/add-dialog.blade.php:188
+#: resources/views/pages/manage/add.blade.php:120
+#: resources/views/product/manage/Images/add-dialog.blade.php:43
+#: resources/views/product/manage/options/add-dialog.blade.php:64
+#: resources/views/product/manage/specification/add-dialog.blade.php:57
+#: resources/views/shipping/manage/add-dialog.blade.php:93
+#: resources/views/tax/manage/add-dialog.blade.php:75
+msgid "Add"
+msgstr ""
+
+#: resources/views/brand/manage/delete-dialog.blade.php:5
+#: resources/views/category/delete-dialog.blade.php:5
+msgid "Are You Sure ?"
+msgstr ""
+
+#: resources/views/brand/manage/delete-dialog.blade.php:19
+msgid "Delete Related Products"
+msgstr ""
+
+#: resources/views/brand/manage/delete-dialog.blade.php:28
+msgid "Confirm product delete by entering password"
+msgstr ""
+
+#: resources/views/brand/manage/delete-dialog.blade.php:28
+#: resources/views/category/delete-dialog.blade.php:16
+#: resources/views/category/delete-dialog.blade.php:19
+#: resources/views/user/login.blade.php:33
+#: resources/views/user/register.blade.php:49
+#: resources/views/user/reset-password.blade.php:25
+msgid "Password"
+msgstr ""
+
+#: resources/views/brand/manage/delete-dialog.blade.php:43
+#: resources/views/category/delete-dialog.blade.php:34
+msgid "Yes, Delete it"
+msgstr ""
+
+#: resources/views/brand/manage/detail-dialog.blade.php:5
+msgid "Brand Details"
+msgstr ""
+
+#: resources/views/brand/manage/detail-dialog.blade.php:26
+#: resources/views/brand/manage/list.blade.php:64
+#: resources/views/category/list.blade.php:86
+#: resources/views/category/list.blade.php:116
+#: resources/views/category/list.blade.php:177
+#: resources/views/coupon/manage/list.blade.php:131
+#: resources/views/order/manage/list.blade.php:21
+#: resources/views/order/user/list.blade.php:18
+#: resources/views/pages/manage/add.blade.php:86
+#: resources/views/pages/manage/edit.blade.php:75
+#: resources/views/product/manage/detail-dialog.blade.php:112
+#: resources/views/product/manage/list.blade.php:89
+#: resources/views/product/manage/list.blade.php:197
+#: resources/views/shipping/manage/list.blade.php:174
+#: resources/views/tax/manage/detail-dialog.blade.php:49
+#: resources/views/tax/manage/list.blade.php:79
+#: resources/views/user/manage/list.blade.php:12
+msgid "Active"
+msgstr ""
+
+#: resources/views/brand/manage/detail-dialog.blade.php:29
+#: resources/views/product/manage/detail-dialog.blade.php:115
+msgid "Deactive"
+msgstr ""
+
+#: resources/views/brand/manage/edit-dialog.blade.php:5
+#: resources/views/product/details.blade.php:43
+msgid "Edit Brand"
+msgstr ""
+
+#: resources/views/brand/manage/edit-dialog.blade.php:43
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:39
+msgid "Browse"
+msgstr ""
+
+#: resources/views/brand/manage/edit-dialog.blade.php:46
+#: resources/views/brand/manage/edit-dialog.blade.php:47
+msgid "Uploaded files"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:7
+msgid "Manage Brands"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:14
+msgid "Add New Brand"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:25
+#: resources/views/category/list.blade.php:117
+#: resources/views/product/manage/list.blade.php:90
+msgid "Created at"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:27
+#: resources/views/category/list.blade.php:89
+#: resources/views/category/list.blade.php:121
+#: resources/views/coupon/manage/list.blade.php:46
+#: resources/views/coupon/manage/list.blade.php:69
+#: resources/views/coupon/manage/list.blade.php:92
+#: resources/views/order/user/list.blade.php:39
+#: resources/views/order/user/list.blade.php:56
+#: resources/views/order/user/list.blade.php:74
+#: resources/views/pages/manage/list.blade.php:27
+#: resources/views/product/manage/Images/list.blade.php:21
+#: resources/views/product/manage/list.blade.php:94
+#: resources/views/product/manage/options/list.blade.php:23
+#: resources/views/product/manage/specification/list.blade.php:20
+#: resources/views/product/manage/uploaded-media.blade.php:18
+#: resources/views/report/manage/list.blade.php:159
+#: resources/views/shipping/manage/list.blade.php:44
+#: resources/views/tax/manage/list.blade.php:31
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:14
+#: resources/views/user/manage/list.blade.php:38
+#: resources/views/user/manage/list.blade.php:58
+#: resources/views/user/manage/list.blade.php:77
+msgid "Action"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:56
+msgid "products under this brand"
+msgstr ""
+
+#: resources/views/brand/manage/list.blade.php:66
+#: resources/views/category/list.blade.php:179
+#: resources/views/coupon/manage/list.blade.php:133
+#: resources/views/product/manage/list.blade.php:199
+#: resources/views/shipping/manage/list.blade.php:176
+#: resources/views/tax/manage/detail-dialog.blade.php:52
+#: resources/views/tax/manage/list.blade.php:81
+msgid "Inactive"
+msgstr ""
+
+#: resources/views/category/add-dialog.blade.php:5
+msgid "Add Category"
+msgstr ""
+
+#: resources/views/category/add-dialog.blade.php:33
+#: resources/views/category/edit-dialog.blade.php:33
+msgid "Parent Category"
+msgstr ""
+
+#: resources/views/category/delete-dialog.blade.php:6
+msgid "You want to Delete "
+msgstr ""
+
+#: resources/views/category/delete-dialog.blade.php:6
+msgid ""
+" Category, all the products belongs to this single category will be deleted "
+"as well, Please enter password to confirm..!!"
+msgstr ""
+
+#: resources/views/category/edit-dialog.blade.php:5
+msgid "Edit Category"
+msgstr ""
+
+#: resources/views/category/edit-dialog.blade.php:9
+msgid "Edit Category in "
+msgstr ""
+
+#: resources/views/category/list.blade.php:9
+#: resources/views/category/list.blade.php:15
+#: resources/views/category/list.blade.php:22
+#: resources/views/product/manage/list.blade.php:9
+#: resources/views/product/manage/list.blade.php:15
+#: resources/views/product/manage/list.blade.php:22
+msgid "Manage Categories & Products"
+msgstr ""
+
+#: resources/views/category/list.blade.php:31
+#: resources/views/product/manage/list.blade.php:31
+msgid "Back To Parent Category"
+msgstr ""
+
+#: resources/views/category/list.blade.php:40
+#: resources/views/product/manage/list.blade.php:40
+msgid "Add New Category"
+msgstr ""
+
+#: resources/views/category/list.blade.php:44
+#: resources/views/product/manage/list.blade.php:44
+msgid "Add New Product"
+msgstr ""
+
+#: resources/views/category/list.blade.php:53
+#: resources/views/category/list.blade.php:54
+#: resources/views/category/list.blade.php:119
+#: resources/views/product/manage/add.blade.php:67
+#: resources/views/product/manage/detail-dialog.blade.php:127
+#: resources/views/product/manage/edit-details.blade.php:64
+#: resources/views/product/manage/list.blade.php:52
+#: resources/views/product/manage/list.blade.php:53
+#: resources/views/product/manage/list.blade.php:92
+msgid "Categories"
+msgstr ""
+
+#: resources/views/category/list.blade.php:80
+msgid "One of it's parent may be Inactive"
+msgstr ""
+
+#: resources/views/category/list.blade.php:87
+#: resources/views/category/list.blade.php:164
+msgid "Subcategories"
+msgstr ""
+
+#: resources/views/category/list.blade.php:112
+#: resources/views/order/manage/details-view.blade.php:151
+#: resources/views/order/manage/details.blade.php:147
+#: resources/views/order/user/details.blade.php:192
+#: resources/views/order/user/summary.blade.php:35
+#: resources/views/product/manage/Images/list.blade.php:18
+#: resources/views/product/manage/detail-dialog.blade.php:22
+#: resources/views/product/manage/list.blade.php:85
+#: resources/views/report/manage/details-dialog.blade.php:168
+#: resources/views/shoppingCart/cart-view.blade.php:23
+msgid "Thumbnail"
+msgstr ""
+
+#: resources/views/category/list.blade.php:114
+#: resources/views/product/manage/detail-dialog.blade.php:87
+#: resources/views/product/manage/list.blade.php:87
+msgid "Featured"
+msgstr ""
+
+#: resources/views/category/list.blade.php:115
+#: resources/views/product/manage/list.blade.php:88
+msgid "Stock"
+msgstr ""
+
+#: resources/views/category/list.blade.php:118
+#: resources/views/product/manage/list.blade.php:91
+msgid "Updated at"
+msgstr ""
+
+#: resources/views/category/list.blade.php:120
+#: resources/views/product/filter-dialog.blade.php:18
+#: resources/views/product/manage/add.blade.php:94
+#: resources/views/product/manage/detail-dialog.blade.php:145
+#: resources/views/product/manage/edit-details.blade.php:91
+#: resources/views/product/manage/list.blade.php:93
+msgid "Brand"
+msgstr ""
+
+#: resources/views/category/list.blade.php:147
+#: resources/views/product/manage/add.blade.php:8
+msgid "Add Product"
+msgstr ""
+
+#: resources/views/category/list.blade.php:149
+msgid ""
+"This category contain __totalCategoryProductCount__ out of "
+"__currentCategoryProductsCount__"
+msgstr ""
+
+#: resources/views/category/list.blade.php:158
+msgid "Add Subcategory "
+msgstr ""
+
+#: resources/views/category/list.blade.php:158
+msgid "Add category"
+msgstr ""
+
+#: resources/views/category/list.blade.php:161
+msgid ""
+"This category contain __activeChildCount__ active and "
+"__activeChildInactive__ inactive subcategories"
+msgstr ""
+
+#: resources/views/category/list.blade.php:170
+msgid "View"
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:8
+msgid "Coupon Code "
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:12
+msgid " applied"
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:18
+#: resources/views/order/user/summary.blade.php:108
+#: resources/views/product/manage/options/add-dialog.blade.php:50
+#: resources/views/product/manage/options/values/list-dialog.blade.php:44
+#: resources/views/product/manage/options/values/list-dialog.blade.php:47
+#: resources/views/product/manage/specification/add-dialog.blade.php:47
+#: resources/views/shoppingCart/cart-view.blade.php:28
+#: resources/views/shoppingCart/cart-view.blade.php:88
+msgid "Remove"
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:32
+msgid "Title: "
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:38
+msgid "Description: "
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:44
+msgid "Discount Allowed: "
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:55
+msgid "Please check your coupon code and enter again."
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:76
+#: resources/views/coupon/manage/add-dialog.blade.php:28
+#: resources/views/coupon/manage/detail-dialog.blade.php:22
+#: resources/views/coupon/manage/edit-dialog.blade.php:28
+#: resources/views/coupon/manage/list.blade.php:42
+#: resources/views/coupon/manage/list.blade.php:65
+#: resources/views/coupon/manage/list.blade.php:88
+msgid "Code"
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:83
+msgid "Code here."
+msgstr ""
+
+#: resources/views/coupon/apply.blade.php:93
+#: resources/views/product/filter-dialog.blade.php:115
+#: resources/views/product/filter-dialog.blade.php:116
+#: resources/views/product/filter-dialog.blade.php:119
+#: resources/views/product/filter-dialog.blade.php:120
+msgid "Apply"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:5
+msgid "Add Coupon"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:16
+#: resources/views/coupon/manage/detail-dialog.blade.php:16
+#: resources/views/coupon/manage/edit-dialog.blade.php:16
+#: resources/views/coupon/manage/list.blade.php:41
+#: resources/views/coupon/manage/list.blade.php:64
+#: resources/views/coupon/manage/list.blade.php:87
+#: resources/views/pages/manage/add.blade.php:15
+#: resources/views/pages/manage/edit.blade.php:15
+#: resources/views/pages/manage/list.blade.php:21
+#: resources/views/product/manage/Images/add-dialog.blade.php:14
+#: resources/views/product/manage/Images/edit-dialog.blade.php:14
+#: resources/views/product/manage/Images/list.blade.php:19
+msgid "Title"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:41
+#: resources/views/coupon/manage/edit-dialog.blade.php:41
+#: resources/views/coupon/manage/list.blade.php:43
+#: resources/views/coupon/manage/list.blade.php:66
+#: resources/views/coupon/manage/list.blade.php:89
+#: resources/views/order/manage/payment-list.blade.php:39
+#: resources/views/report/manage/list.blade.php:37
+msgid "Start Date"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:57
+#: resources/views/coupon/manage/edit-dialog.blade.php:56
+#: resources/views/coupon/manage/list.blade.php:44
+#: resources/views/coupon/manage/list.blade.php:67
+#: resources/views/coupon/manage/list.blade.php:90
+#: resources/views/order/manage/payment-list.blade.php:57
+#: resources/views/report/manage/list.blade.php:55
+msgid "End Date"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:73
+#: resources/views/coupon/manage/edit-dialog.blade.php:71
+msgid "Discount Type"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:82
+#: resources/views/coupon/manage/add-dialog.blade.php:99
+#: resources/views/coupon/manage/detail-dialog.blade.php:28
+#: resources/views/coupon/manage/edit-dialog.blade.php:79
+#: resources/views/coupon/manage/edit-dialog.blade.php:96
+msgid "Discount"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:119
+#: resources/views/coupon/manage/add-dialog.blade.php:134
+#: resources/views/coupon/manage/detail-dialog.blade.php:48
+#: resources/views/coupon/manage/edit-dialog.blade.php:115
+#: resources/views/coupon/manage/edit-dialog.blade.php:130
+msgid "Max Discount"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:135
+msgid "Max Discount in % Of Order Price"
+msgstr ""
+
+#: resources/views/coupon/manage/add-dialog.blade.php:153
+#: resources/views/coupon/manage/detail-dialog.blade.php:67
+#: resources/views/coupon/manage/edit-dialog.blade.php:149
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: resources/views/coupon/manage/detail-dialog.blade.php:5
+msgid "Coupon Details"
+msgstr ""
+
+#: resources/views/coupon/manage/detail-dialog.blade.php:45
+#, php-format
+msgid "Max Discount in % of product price"
+msgstr ""
+
+#: resources/views/coupon/manage/edit-dialog.blade.php:5
+msgid "Edit Coupon"
+msgstr ""
+
+#: resources/views/coupon/manage/edit-dialog.blade.php:131
+#, php-format
+msgid "Max Discount in % of order price"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:6
+msgid "Manage Coupons"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:13
+msgid "Add New Coupon"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:22
+msgid "Current"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:25
+msgid "Expired"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:28
+msgid "Up-coming"
+msgstr ""
+
+#: resources/views/coupon/manage/list.blade.php:45
+#: resources/views/coupon/manage/list.blade.php:68
+#: resources/views/coupon/manage/list.blade.php:91
+#: resources/views/shipping/manage/list.blade.php:43
+#: resources/views/tax/manage/list.blade.php:30
+msgid "status"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:6
+#: resources/views/includes/manage-sidebar.blade.php:7
+#: resources/views/manage-master.blade.php:40
+msgid "Dashboard"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:11
+#: resources/views/includes/manage-sidebar.blade.php:12
+msgid "Manage Shop"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:16
+#: resources/views/includes/manage-sidebar.blade.php:18
+#: resources/views/includes/manage-sidebar.blade.php:19
+#: resources/views/store/edit_settings.blade.php:4
+msgid "Basic Configuration"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:18
+#: resources/views/dashboard/details.blade.php:20
+#: resources/views/includes/manage-sidebar.blade.php:23
+#: resources/views/includes/manage-sidebar.blade.php:24
+msgid "Shipping Rules"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:22
+#: resources/views/dashboard/details.blade.php:24
+#: resources/views/includes/manage-sidebar.blade.php:28
+#: resources/views/includes/manage-sidebar.blade.php:29
+msgid "Tax Rules"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:26
+#: resources/views/dashboard/details.blade.php:28
+#: resources/views/includes/manage-sidebar.blade.php:33
+#: resources/views/includes/manage-sidebar.blade.php:34
+msgid "Coupons"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:34
+msgid "Manage Products"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:41
+#: resources/views/dashboard/details.blade.php:43
+#: resources/views/includes/manage-sidebar.blade.php:51
+#: resources/views/includes/manage-sidebar.blade.php:52
+msgid "Categories & Products"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:49
+msgid "Reports &amp; Orders"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:57
+#: resources/views/dashboard/details.blade.php:59
+#: resources/views/includes/manage-sidebar.blade.php:72
+#: resources/views/includes/manage-sidebar.blade.php:73
+#: resources/views/report/manage/list.blade.php:13
+msgid "Reports"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:61
+#: resources/views/dashboard/details.blade.php:63
+#: resources/views/includes/manage-sidebar.blade.php:77
+#: resources/views/includes/manage-sidebar.blade.php:78
+msgid "Order Payments"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:69
+#: resources/views/includes/manage-sidebar.blade.php:84
+msgid "Other "
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:72
+#: resources/views/dashboard/details.blade.php:74
+#: resources/views/includes/manage-sidebar.blade.php:90
+#: resources/views/includes/manage-sidebar.blade.php:91
+msgid "Pages"
+msgstr ""
+
+#: resources/views/dashboard/details.blade.php:76
+#: resources/views/dashboard/details.blade.php:78
+#: resources/views/includes/manage-sidebar.blade.php:95
+#: resources/views/includes/manage-sidebar.blade.php:96
+msgid "Users"
+msgstr ""
+
+#: resources/views/emails/index.blade.php:123
+#: resources/views/manage-master.blade.php:90
+#: resources/views/product/manage/add.blade.php:134
+#: resources/views/product/manage/edit-details.blade.php:139
+#: resources/views/public-master.blade.php:67
+msgid "Please Note: "
+msgstr ""
+
+#: resources/views/emails/index.blade.php:123
+msgid "Sample Email Demonstration purposes only."
+msgstr ""
+
+#: resources/views/errors/503.blade.php:37
+msgid "Be right back."
+msgstr ""
+
+#: resources/views/errors/invalid-request.blade.php:5
+msgid "Invalid Request...."
+msgstr ""
+
+#: resources/views/errors/manage-not-exist.blade.php:7
+#: resources/views/errors/public-not-found.blade.php:7
+msgid "Ooops...! Not Found"
+msgstr ""
+
+#: resources/views/errors/manage-not-exist.blade.php:9
+#: resources/views/errors/public-not-found.blade.php:9
+msgid "404 Not Found"
+msgstr ""
+
+#: resources/views/errors/manage-not-exist.blade.php:12
+#: resources/views/errors/public-not-found.blade.php:12
+msgid "404"
+msgstr ""
+
+#: resources/views/errors/manage-not-exist.blade.php:14
+#: resources/views/errors/public-not-found.blade.php:14
+msgid " Sorry, but the item you are looking for does not exist..!"
+msgstr ""
+
+#: resources/views/errors/manage-not-exist.blade.php:17
+#: resources/views/errors/manage-not-exist.blade.php:18
+msgid "Go to dashboard"
+msgstr ""
+
+#: resources/views/errors/public-not-found.blade.php:17
+#: resources/views/errors/public-not-found.blade.php:18
+#: resources/views/order/user/summary.blade.php:80
+#: resources/views/shoppingCart/cart-view.blade.php:120
+#: resources/views/shoppingCart/cart-view.blade.php:122
+msgid "Continue Shopping"
+msgstr ""
+
+#: resources/views/errors/suspended.blade.php:1
+msgid "Please contact site administrator."
+msgstr ""
+
+#: resources/views/errors/unauthorized.blade.php:1
+msgid "Unauthorized User"
+msgstr ""
+
+#: resources/views/includes/image-slider.blade.php:18
+#: resources/views/order/manage/list.blade.php:190
+#: resources/views/order/user/list.blade.php:108
+#: resources/views/product/details.blade.php:335
+#: resources/views/product/list.blade.php:250
+#: resources/views/product/list.blade.php:348
+#: resources/views/report/manage/list.blade.php:206
+msgid "View Details"
+msgstr ""
+
+#: resources/views/includes/image-slider.blade.php:19
+msgid "More Details"
+msgstr ""
+
+#: resources/views/includes/manage-sidebar.blade.php:40
+msgid "Manage Products "
+msgstr ""
+
+#: resources/views/includes/manage-sidebar.blade.php:58
+msgid "Reports &amp; Orders "
+msgstr ""
+
+#: resources/views/includes/search-panel.blade.php:3
+msgid "Search"
+msgstr ""
+
+#: resources/views/includes/search-panel.blade.php:6
+#: resources/views/manage-master.blade.php:83
+msgid "Menu"
+msgstr ""
+
+#: resources/views/includes/search-panel.blade.php:14
+#: resources/views/includes/search-panel.blade.php:27
+msgid "Search Products"
+msgstr ""
+
+#: resources/views/includes/search-panel.blade.php:16
+#: resources/views/includes/search-panel.blade.php:17
+#: resources/views/includes/search-panel.blade.php:29
+#: resources/views/includes/search-panel.blade.php:30
+msgid "Go"
+msgstr ""
+
+#: resources/views/includes/sidebar.blade.php:19
+#: resources/views/includes/sidebar.blade.php:20
+#: resources/views/includes/top-menu.blade.php:9
+#: resources/views/includes/top-menu.blade.php:10
+#: resources/views/manage-master.blade.php:5
+#: resources/views/vendor/laravel-filemanager/index.blade.php:5
+msgid "Manage Store"
+msgstr ""
+
+#: resources/views/includes/sidebar.blade.php:42
+#: resources/views/manage-master.blade.php:64
+#: resources/views/order/manage/details-view.blade.php:236
+#: resources/views/order/manage/details-view.blade.php:285
+#: resources/views/order/manage/details.blade.php:234
+#: resources/views/order/manage/details.blade.php:283
+#: resources/views/order/user/details.blade.php:277
+#: resources/views/order/user/details.blade.php:326
+#: resources/views/report/manage/details-dialog.blade.php:255
+#: resources/views/report/manage/details-dialog.blade.php:304
+msgid "Address"
+msgstr ""
+
+#: resources/views/includes/sidebar.blade.php:48
+#: resources/views/includes/top-menu.blade.php:38
+#: resources/views/manage-master.blade.php:72
+#: resources/views/manage-master.blade.php:73
+msgid "Logout"
+msgstr ""
+
+#: resources/views/includes/sidebar.blade.php:68
+msgid "Product Categories"
+msgstr ""
+
+#: resources/views/includes/sidebar.blade.php:73
+msgid "All Products"
+msgstr ""
+
+#: resources/views/manage-master.blade.php:15
+#: resources/views/manage-master.blade.php:114
+#: resources/views/product/details-dialog.blade.php:10
+#: resources/views/product/manage/edit-details.blade.php:10
+#: resources/views/public-master.blade.php:16
+#: resources/views/public-master.blade.php:133
+#: resources/views/shoppingCart/cart-view.blade.php:10
+#: resources/views/store/contact.blade.php:10
+#: resources/views/store/currency.blade.php:12
+#: resources/views/store/general.blade.php:9
+#: resources/views/store/order.blade.php:11
+#: resources/views/store/placement.blade.php:10
+#: resources/views/store/privacy-policy.blade.php:10
+#: resources/views/store/product.blade.php:10
+#: resources/views/store/social.blade.php:10
+#: resources/views/store/term-condition.blade.php:10
+msgid "Loading..."
+msgstr ""
+
+#: resources/views/manage-master.blade.php:16
+#: resources/views/public-master.blade.php:17
+msgid "Please wait while we are processing your request..."
+msgstr ""
+
+#: resources/views/manage-master.blade.php:24
+#: resources/views/public-master.blade.php:30
+msgid "Oh dear... we are sorry"
+msgstr ""
+
+#: resources/views/manage-master.blade.php:25
+#: resources/views/public-master.blade.php:31
+msgid "Javascript"
+msgstr ""
+
+#: resources/views/manage-master.blade.php:25
+#: resources/views/public-master.blade.php:31
+msgid ""
+"is disabled in your browser, To use this application please enable "
+"javascript &amp; reload page again."
+msgstr ""
+
+#: resources/views/manage-master.blade.php:90
+msgid ""
+"Demonstration purposes only. No Order will be executed and Saving "
+"functionality is disabled"
+msgstr ""
+
+#: resources/views/order/manage/contact-user.blade.php:16
+#: resources/views/order/manage/list.blade.php:39
+#: resources/views/order/manage/list.blade.php:60
+#: resources/views/order/manage/list.blade.php:82
+#: resources/views/order/manage/payment-list.blade.php:93
+#: resources/views/order/manage/refund-dialog.blade.php:24
+#: resources/views/order/user/contact-store.blade.php:16
+#: resources/views/order/user/list.blade.php:36
+#: resources/views/order/user/list.blade.php:53
+#: resources/views/order/user/list.blade.php:71
+#: resources/views/report/manage/list.blade.php:154
+msgid "Order ID"
+msgstr ""
+
+#: resources/views/order/manage/contact-user.blade.php:27
+#: resources/views/order/user/contact-store.blade.php:27
+#: resources/views/order/user/summary.blade.php:178
+#: resources/views/user/contact.blade.php:16
+#: resources/views/user/manage/contact.blade.php:16
+msgid "Full Name"
+msgstr ""
+
+#: resources/views/order/manage/contact-user.blade.php:38
+#: resources/views/order/user/contact-store.blade.php:37
+#: resources/views/user/contact.blade.php:26
+#: resources/views/user/login.blade.php:23
+#: resources/views/user/manage/contact.blade.php:27
+#: resources/views/user/manage/list.blade.php:35
+#: resources/views/user/manage/list.blade.php:55
+#: resources/views/user/manage/list.blade.php:74
+#: resources/views/user/manage/user-details.blade.php:18
+#: resources/views/user/register.blade.php:39
+#: resources/views/user/reset-password.blade.php:15
+msgid "Email"
+msgstr ""
+
+#: resources/views/order/manage/contact-user.blade.php:49
+#: resources/views/order/user/contact-store.blade.php:47
+#: resources/views/user/contact.blade.php:36
+#: resources/views/user/manage/contact.blade.php:38
+msgid "Subject"
+msgstr ""
+
+#: resources/views/order/manage/contact-user.blade.php:60
+#: resources/views/order/user/contact-store.blade.php:58
+#: resources/views/user/contact.blade.php:47
+#: resources/views/user/manage/contact.blade.php:49
+msgid "Message"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:5
+#: resources/views/order/manage/details.blade.php:4
+#: resources/views/order/user/details.blade.php:14
+#: resources/views/order/user/details.blade.php:29
+#: resources/views/report/manage/details-dialog.blade.php:13
+msgid "Order Details"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:6
+#: resources/views/order/manage/list.blade.php:198
+msgid "Contact User"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:7
+msgid "Go to Manage Orders"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:7
+#: resources/views/order/manage/list.blade.php:6
+#: resources/views/order/user/details.blade.php:22
+msgid "Manage Orders"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:30
+#: resources/views/order/manage/details.blade.php:26
+#: resources/views/order/user/details.blade.php:58
+#: resources/views/product/details-dialog.blade.php:27
+#: resources/views/product/details.blade.php:79
+#: resources/views/report/manage/details-dialog.blade.php:40
+msgid "ID"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:34
+#: resources/views/order/manage/details.blade.php:30
+#: resources/views/order/manage/list.blade.php:44
+#: resources/views/order/user/details.blade.php:62
+#: resources/views/order/user/list.blade.php:38
+#: resources/views/report/manage/details-dialog.blade.php:44
+#: resources/views/report/manage/list.blade.php:157
+msgid "Placed On"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:88
+#: resources/views/order/manage/details.blade.php:84
+#: resources/views/order/manage/payment-details-dialog.blade.php:5
+#: resources/views/order/user/details.blade.php:115
+#: resources/views/report/manage/details-dialog.blade.php:98
+msgid "Payment Details"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:95
+#: resources/views/order/manage/details.blade.php:91
+#: resources/views/order/manage/payment-details-dialog.blade.php:30
+#: resources/views/order/user/details.blade.php:122
+#: resources/views/report/manage/details-dialog.blade.php:105
+msgid "Method"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:144
+#: resources/views/order/manage/details.blade.php:140
+#: resources/views/order/user/details.blade.php:185
+#: resources/views/report/manage/details-dialog.blade.php:161
+msgid "Cart summary"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:152
+#: resources/views/order/manage/details.blade.php:148
+#: resources/views/order/user/details.blade.php:193
+#: resources/views/order/user/summary.blade.php:36
+#: resources/views/report/manage/details-dialog.blade.php:169
+#: resources/views/shoppingCart/cart-view.blade.php:24
+msgid "Item Description"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:153
+#: resources/views/order/manage/details.blade.php:149
+#: resources/views/order/user/details.blade.php:194
+#: resources/views/order/user/summary.blade.php:38
+#: resources/views/report/manage/details-dialog.blade.php:170
+#: resources/views/shoppingCart/cart-view.blade.php:26
+msgid "Qty"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:154
+#: resources/views/order/manage/details.blade.php:150
+#: resources/views/order/user/details.blade.php:195
+#: resources/views/order/user/summary.blade.php:37
+#: resources/views/product/filter-dialog.blade.php:29
+#: resources/views/product/list.blade.php:177
+#: resources/views/product/manage/add.blade.php:153
+#: resources/views/product/manage/detail-dialog.blade.php:49
+#: resources/views/product/manage/edit-details.blade.php:158
+#: resources/views/report/manage/details-dialog.blade.php:171
+#: resources/views/shoppingCart/cart-view.blade.php:25
+msgid "Price"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:155
+#: resources/views/order/manage/details-view.blade.php:183
+#: resources/views/order/manage/details.blade.php:151
+#: resources/views/order/manage/details.blade.php:181
+#: resources/views/order/user/details.blade.php:196
+#: resources/views/order/user/details.blade.php:224
+#: resources/views/order/user/summary.blade.php:39
+#: resources/views/report/manage/details-dialog.blade.php:172
+#: resources/views/report/manage/details-dialog.blade.php:202
+#: resources/views/shoppingCart/cart-view.blade.php:27
+msgid "Subtotal"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:207
+#: resources/views/order/manage/details.blade.php:205
+#: resources/views/order/user/details.blade.php:248
+#: resources/views/report/manage/details-dialog.blade.php:226
+msgid "Applied Coupon Code"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:231
+#: resources/views/order/manage/details.blade.php:229
+#: resources/views/order/user/details.blade.php:272
+#: resources/views/order/user/summary.blade.php:197
+#: resources/views/report/manage/details-dialog.blade.php:250
+msgid "Shipping Address"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:255
+#: resources/views/order/manage/details.blade.php:253
+#: resources/views/order/user/details.blade.php:296
+#: resources/views/order/user/summary.blade.php:277
+#: resources/views/report/manage/details-dialog.blade.php:274
+msgid "Billing Address"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:280
+#: resources/views/order/manage/details.blade.php:278
+#: resources/views/order/user/details.blade.php:321
+#: resources/views/order/user/summary.blade.php:173
+#: resources/views/report/manage/details-dialog.blade.php:299
+msgid "Shipping / Billing Address"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:314
+#: resources/views/order/manage/details-view.blade.php:352
+#: resources/views/order/manage/details.blade.php:312
+#: resources/views/order/user/details.blade.php:355
+#: resources/views/order/user/summary.blade.php:405
+#: resources/views/order/user/summary.blade.php:424
+#: resources/views/report/manage/details-dialog.blade.php:334
+msgid "Free"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:316
+#: resources/views/order/manage/details.blade.php:314
+#: resources/views/order/user/details.blade.php:357
+#: resources/views/report/manage/details-dialog.blade.php:329
+msgid "Shipping Charges"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:343
+#: resources/views/order/manage/details.blade.php:340
+#: resources/views/order/user/details.blade.php:383
+#: resources/views/order/user/summary.blade.php:346
+#: resources/views/report/manage/details-dialog.blade.php:358
+msgid "Tax"
+msgstr ""
+
+#: resources/views/order/manage/details-view.blade.php:371
+#: resources/views/order/manage/details.blade.php:367
+#: resources/views/order/manage/payment-list.blade.php:98
+#: resources/views/order/manage/refund-dialog.blade.php:42
+#: resources/views/order/user/details.blade.php:406
+#: resources/views/report/manage/details-dialog.blade.php:382
+msgid "Total Amount"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:24
+#: resources/views/order/user/list.blade.php:21
+msgid "Cancelled"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:27
+#: resources/views/order/user/list.blade.php:24
+msgid "Completed"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:41
+#: resources/views/order/manage/list.blade.php:62
+#: resources/views/order/manage/list.blade.php:84
+msgid "Order Status"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:42
+#: resources/views/order/manage/list.blade.php:63
+#: resources/views/order/manage/list.blade.php:85
+msgid "Payment Status"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:43
+#: resources/views/order/manage/list.blade.php:64
+#: resources/views/order/manage/list.blade.php:86
+#: resources/views/order/manage/payment-list.blade.php:97
+#: resources/views/order/manage/refund-dialog.blade.php:65
+#: resources/views/order/manage/update-payment-dialog.blade.php:60
+msgid "Payment Method"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:45
+#: resources/views/order/manage/list.blade.php:66
+#: resources/views/order/manage/list.blade.php:88
+msgid "Amount"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:46
+#: resources/views/order/manage/list.blade.php:67
+#: resources/views/order/manage/list.blade.php:89
+msgid "Order Action"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:65
+#: resources/views/order/user/list.blade.php:55
+msgid "Canceled On"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:87
+#: resources/views/order/user/details.blade.php:156
+#: resources/views/order/user/list.blade.php:73
+#: resources/views/report/manage/details-dialog.blade.php:139
+msgid "Completed On"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:120
+msgid "Show Payment Details"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:131
+#: resources/views/order/manage/list.blade.php:134
+msgid "Update Payment"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:165
+msgid "Refund"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:194
+msgid "Order Log"
+msgstr ""
+
+#: resources/views/order/manage/list.blade.php:203
+#: resources/views/order/user/list.blade.php:112
+#: resources/views/report/manage/list.blade.php:210
+msgid "Download Invoice"
+msgstr ""
+
+#: resources/views/order/manage/log.blade.php:5
+msgid "Order Log For"
+msgstr ""
+
+#: resources/views/order/manage/payment-details-dialog.blade.php:15
+#: resources/views/order/manage/payment-list.blade.php:94
+#: resources/views/order/manage/refund-dialog.blade.php:30
+#: resources/views/order/manage/update-payment-dialog.blade.php:70
+msgid "Transaction ID"
+msgstr ""
+
+#: resources/views/order/manage/payment-details-dialog.blade.php:22
+#: resources/views/order/manage/payment-list.blade.php:95
+#: resources/views/order/manage/refund-dialog.blade.php:36
+#: resources/views/order/manage/update-payment-dialog.blade.php:80
+msgid "Fee"
+msgstr ""
+
+#: resources/views/order/manage/payment-details-dialog.blade.php:26
+msgid "Gross Amount"
+msgstr ""
+
+#: resources/views/order/manage/payment-details-dialog.blade.php:34
+#: resources/views/order/manage/refund-dialog.blade.php:48
+msgid "Payment On"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:14
+msgid "Manage Payments"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:29
+#: resources/views/report/manage/list.blade.php:27
+msgid "Duration"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:75
+#: resources/views/report/manage/list.blade.php:94
+msgid "Show"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:80
+#: resources/views/report/manage/list.blade.php:96
+msgid "Generate Excel file"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:80
+#: resources/views/report/manage/list.blade.php:96
+msgid " Generate Excel file"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:96
+#: resources/views/product/manage/detail-dialog.blade.php:58
+#: resources/views/user/manage/user-details.blade.php:69
+msgid "Created On"
+msgstr ""
+
+#: resources/views/order/manage/payment-list.blade.php:135
+msgid "Refunded"
+msgstr ""
+
+#: resources/views/order/manage/raw-data-dialog.blade.php:5
+msgid "Raw Data"
+msgstr ""
+
+#: resources/views/order/manage/raw-data-dialog.blade.php:24
+msgid "There are no data found"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:5
+msgid "Refund Order Payment"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:16
+msgid "Order Payment Details"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:60
+msgid "Refund Payment Options"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:68
+#: resources/views/order/manage/update-payment-dialog.blade.php:63
+msgid "-- Select Payment Method --"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:80
+#: resources/views/order/manage/update.blade.php:52
+msgid "Notify Customer"
+msgstr ""
+
+#: resources/views/order/manage/refund-dialog.blade.php:87
+#: resources/views/order/manage/update.blade.php:39
+msgid "Additional Notes"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:5
+msgid "Update Order Payment"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:14
+msgid "Awaiting Payment Confirmation"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:22
+msgid "Order Payment Completed"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:30
+msgid "Order Payment failed"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:38
+msgid "Order Payment N/A"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:53
+msgid "Current Order Status"
+msgstr ""
+
+#: resources/views/order/manage/update-payment-dialog.blade.php:90
+msgid "Comment"
+msgstr ""
+
+#: resources/views/order/manage/update.blade.php:16
+msgid "Current Status"
+msgstr ""
+
+#: resources/views/order/manage/update.blade.php:23
+msgid "Current Payment Status"
+msgstr ""
+
+#: resources/views/order/manage/update.blade.php:32
+msgid "-- Select Status --"
+msgstr ""
+
+#: resources/views/order/user/details.blade.php:6
+msgid "Thank you for order..!!"
+msgstr ""
+
+#: resources/views/order/user/details.blade.php:18
+#: resources/views/order/user/details.blade.php:33
+msgid "Go To My Orders"
+msgstr ""
+
+#: resources/views/order/user/details.blade.php:20
+#: resources/views/order/user/details.blade.php:32
+msgid "Contact Store"
+msgstr ""
+
+#: resources/views/order/user/details.blade.php:22
+msgid "Go To Manage Orders"
+msgstr ""
+
+#: resources/views/order/user/details.blade.php:163
+msgid "Update your order payment using PayPal"
+msgstr ""
+
+#: resources/views/order/user/payment-cancel.blade.php:4
+msgid "Failed order Submission"
+msgstr ""
+
+#: resources/views/order/user/payment-cancel.blade.php:9
+msgid "order details page"
+msgstr ""
+
+#: resources/views/order/user/payment-cancel.blade.php:8
+msgid "Order has been cancelled due to Payment Failed"
+msgstr ""
+
+#: resources/views/order/user/payment-cancel.blade.php:17
+msgid "Invalid Request!! "
+msgstr ""
+
+#: resources/views/order/user/success-page.blade.php:3
+msgid "Success!"
+msgstr ""
+
+#: resources/views/order/user/success-page.blade.php:8
+msgid "Hi __fullName__"
+msgstr ""
+
+#: resources/views/order/user/success-page.blade.php:13
+msgid "Your order has been placed successfully!!"
+msgstr ""
+
+#: resources/views/order/user/success-page.blade.php:16
+msgid "Order ID: __orderID__"
+msgstr ""
+
+#: resources/views/order/user/success-page.blade.php:17
+msgid "Click here to see order details"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:12
+msgid "Order Summary -"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:12
+msgid " Complete your order"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:27
+msgid "Products in Cart"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:80
+msgid "Do some more Shopping!!"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:87
+msgid "Cart Total"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:100
+msgid "There are no items in the cart."
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:108
+msgid "Remove all this invalid products."
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:124
+msgid "Coupon"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:138
+#: resources/views/order/user/summary.blade.php:149
+msgid "Sub Total"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:201
+msgid "Use this address as billing address"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:242
+#: resources/views/order/user/summary.blade.php:313
+msgid "Address is required"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:250
+#: resources/views/order/user/summary.blade.php:251
+#: resources/views/order/user/summary.blade.php:321
+#: resources/views/order/user/summary.blade.php:322
+msgid "Change Address"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:260
+#: resources/views/order/user/summary.blade.php:261
+#: resources/views/order/user/summary.blade.php:331
+msgid "Select Address"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:386
+msgid "Shipping"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:430
+msgid "Sorry shipping not available in your country."
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:457
+msgid "Total Payable Amount"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:476
+msgid "Checkout"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:476
+msgid " Please choose your payment method"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:479
+msgid "Checkout Method"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:489
+msgid "Checkout with PayPal"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:495
+msgid "Bank Check"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:501
+msgid "Bank Transfer"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:508
+msgid "COD - Cash on Delivery"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:514
+msgid ""
+"Other Payment Method - You can submit this order without payment for Now, "
+"Admin will contact you for payment."
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:514
+msgid "Other Payment Method"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:529
+msgid "Check Payment Discription"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:540
+msgid "Bank Payment Discription"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:551
+msgid "COD Payment Discription"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:562
+msgid "Other Payment Discription"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:577
+msgid "Back To Shopping Cart"
+msgstr ""
+
+#: resources/views/order/user/summary.blade.php:581
+msgid "Submit Order"
+msgstr ""
+
+#: resources/views/order/user/thank-you.blade.php:3
+msgid "Thanks for your order"
+msgstr ""
+
+#: resources/views/order/user/thank-you.blade.php:8
+msgid "We will notify you when your order get processed"
+msgstr ""
+
+#: resources/views/order/user/thank-you.blade.php:13
+msgid ""
+"We have received your order but unfortunately Payment is not showing as "
+"completed, further investigation may required. <br> We will get back to you "
+"soon, if needed please feel free to contact us."
+msgstr ""
+
+#: resources/views/order/user/thank-you.blade.php:18
+msgid "For the further referance please quote Order ID __orderUID__"
+msgstr ""
+
+#: resources/views/pages/display-details.blade.php:6
+msgid ""
+"The <strong>:__pageName__</strong> page is inactive & will not display in "
+"public until you change status to active"
+msgstr ""
+
+#: resources/views/pages/display-details.blade.php:9
+#: resources/views/pages/manage/edit.blade.php:5
+msgid "Edit Page"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:5
+msgid "Add Page"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:46
+#: resources/views/pages/manage/edit.blade.php:46
+msgid "Link"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:58
+#: resources/views/pages/manage/edit.blade.php:58
+msgid "Parent Page"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:76
+msgid "Open As"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:96
+#: resources/views/pages/manage/edit.blade.php:85
+msgid "Add to menu"
+msgstr ""
+
+#: resources/views/pages/manage/add.blade.php:106
+#: resources/views/pages/manage/edit.blade.php:95
+msgid "Hide Sidebar"
+msgstr ""
+
+#: resources/views/pages/manage/details.blade.php:10
+msgid "Back"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:5
+#: resources/views/pages/manage/list.blade.php:6
+msgid "Manage Pages"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:10
+msgid "Add New Page"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:20
+msgid "List Order"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:23
+msgid "Created"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:24
+msgid "Updated"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:25
+msgid "Show in menu"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:94
+msgid "Sub-pages"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:98
+msgid "External-page"
+msgstr ""
+
+#: resources/views/pages/manage/list.blade.php:102
+msgid "External-link"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:33
+#: resources/views/product/details-dialog.blade.php:77
+#: resources/views/product/details.blade.php:152
+msgid "Base Price"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:55
+#: resources/views/product/details-dialog.blade.php:102
+#: resources/views/product/details.blade.php:177
+msgid "Price based on options selections"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:55
+#: resources/views/product/details-dialog.blade.php:102
+#: resources/views/product/details.blade.php:177
+msgid "Price :"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:75
+#: resources/views/product/details-dialog.blade.php:122
+#: resources/views/product/details.blade.php:197
+msgid "Quantity"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:80
+#: resources/views/product/details-dialog.blade.php:127
+#: resources/views/product/details.blade.php:202
+#: resources/views/shoppingCart/cart-view.blade.php:61
+msgid "Decrement"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:98
+#: resources/views/product/details-dialog.blade.php:145
+#: resources/views/product/details.blade.php:220
+#: resources/views/shoppingCart/cart-view.blade.php:76
+msgid "Increment"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:106
+#: resources/views/product/add-to-cart-form.blade.php:108
+#: resources/views/product/details-dialog.blade.php:153
+#: resources/views/product/details-dialog.blade.php:155
+#: resources/views/product/details.blade.php:228
+#: resources/views/product/details.blade.php:230
+msgid "Add to Cart"
+msgstr ""
+
+#: resources/views/product/add-to-cart-form.blade.php:114
+#: resources/views/product/add-to-cart-form.blade.php:118
+#: resources/views/product/details-dialog.blade.php:161
+#: resources/views/product/details-dialog.blade.php:165
+#: resources/views/product/details.blade.php:236
+#: resources/views/product/details.blade.php:240
+msgid "Update Cart"
+msgstr ""
+
+#: resources/views/product/details-dialog.blade.php:20
+#: resources/views/product/details-dialog.blade.php:204
+#: resources/views/product/details-dialog.blade.php:206
+#: resources/views/product/manage/list.blade.php:125
+msgid "Product Details"
+msgstr ""
+
+#: resources/views/product/details-dialog.blade.php:32
+#: resources/views/product/details.blade.php:84
+msgid "Available in these categories"
+msgstr ""
+
+#: resources/views/product/details-dialog.blade.php:214
+#: resources/views/product/details-dialog.blade.php:219
+msgid "Go to Shopping Cart"
+msgstr ""
+
+#: resources/views/product/details.blade.php:29
+msgid ""
+"As this product's of <strong>category</strong> is inactive this product is "
+"not publicly viewable"
+msgstr ""
+
+#: resources/views/product/details.blade.php:35
+msgid ""
+"This product is inactive & will not display in public until you change "
+"status to active"
+msgstr ""
+
+#: resources/views/product/details.blade.php:43
+msgid ""
+"As this product's __brandName__ brand is inactive .This product is not "
+"publicly viewable."
+msgstr ""
+
+#: resources/views/product/details.blade.php:107
+msgid "View __brandName__ Brand Products"
+msgstr ""
+
+#: resources/views/product/details.blade.php:275
+msgid "Product Description"
+msgstr ""
+
+#: resources/views/product/details.blade.php:291
+#: resources/views/product/manage/detail-dialog.blade.php:185
+msgid "Product Specifications"
+msgstr ""
+
+#: resources/views/product/details.blade.php:309
+msgid "Releated Video"
+msgstr ""
+
+#: resources/views/product/details.blade.php:324
+#: resources/views/product/manage/add.blade.php:176
+#: resources/views/product/manage/detail-dialog.blade.php:199
+#: resources/views/product/manage/edit-details.blade.php:181
+msgid "Related Products"
+msgstr ""
+
+#: resources/views/product/filter-dialog.blade.php:6
+#: resources/views/product/list.blade.php:160
+#: resources/views/product/list.blade.php:161
+msgid "Filter"
+msgstr ""
+
+#: resources/views/product/filter-dialog.blade.php:50
+msgid " Select All"
+msgstr ""
+
+#: resources/views/product/filter-dialog.blade.php:98
+msgid "No price Filter."
+msgstr ""
+
+#: resources/views/product/filter-dialog.blade.php:126
+#: resources/views/product/filter-dialog.blade.php:127
+#: resources/views/product/filter-dialog.blade.php:130
+msgid "Clear Filter"
+msgstr ""
+
+#: resources/views/product/list.blade.php:32
+msgid "__productCount__ Products found for : __searchTerm__  term"
+msgstr ""
+
+#: resources/views/product/list.blade.php:38
+msgid "Products Search"
+msgstr ""
+
+#: resources/views/product/list.blade.php:42
+msgid "found __productCount__ results for"
+msgstr ""
+
+#: resources/views/product/list.blade.php:51
+msgid "Remove __searchTerm__"
+msgstr ""
+
+#: resources/views/product/list.blade.php:106
+msgid "Showing Products for "
+msgstr ""
+
+#: resources/views/product/list.blade.php:118
+#: resources/views/product/list.blade.php:137
+msgid "Remove "
+msgstr ""
+
+#: resources/views/product/list.blade.php:128
+msgid " In price between "
+msgstr ""
+
+#: resources/views/product/list.blade.php:131
+msgid "Min and Max Price"
+msgstr ""
+
+#: resources/views/product/list.blade.php:147
+#: resources/views/product/list.blade.php:149
+msgid "Clear all Filters"
+msgstr ""
+
+#: resources/views/product/list.blade.php:167
+#: resources/views/product/list.blade.php:171
+msgid "Order by"
+msgstr ""
+
+#: resources/views/product/list.blade.php:196
+#: resources/views/product/list.blade.php:304
+msgid "Featured Product"
+msgstr ""
+
+#: resources/views/product/list.blade.php:206
+#: resources/views/product/list.blade.php:314
+msgid "Out of stock"
+msgstr ""
+
+#: resources/views/product/list.blade.php:244
+#: resources/views/product/list.blade.php:344
+msgid "Quick View"
+msgstr ""
+
+#: resources/views/product/list.blade.php:275
+msgid "Looks like you've reached the end."
+msgstr ""
+
+#: resources/views/product/list.blade.php:286
+msgid "No products available here."
+msgstr ""
+
+#: resources/views/product/manage/Images/add-dialog.blade.php:4
+msgid "Add Image"
+msgstr ""
+
+#: resources/views/product/manage/Images/add-dialog.blade.php:25
+#: resources/views/product/manage/add.blade.php:107
+#: resources/views/product/manage/edit-details.blade.php:112
+msgid "Image"
+msgstr ""
+
+#: resources/views/product/manage/Images/add-dialog.blade.php:26
+#: resources/views/product/manage/add.blade.php:108
+#: resources/views/product/manage/edit-details.blade.php:113
+msgid "Select Image"
+msgstr ""
+
+#: resources/views/product/manage/Images/edit-dialog.blade.php:4
+msgid "Edit Image"
+msgstr ""
+
+#: resources/views/product/manage/Images/list.blade.php:5
+msgid "Manage Images"
+msgstr ""
+
+#: resources/views/product/manage/Images/list.blade.php:8
+msgid "Add New Image"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:35
+#: resources/views/product/manage/detail-dialog.blade.php:28
+#: resources/views/product/manage/edit-details.blade.php:31
+msgid "Product ID"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:46
+#: resources/views/product/manage/edit-details.blade.php:43
+msgid "Mark as Featured"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:56
+#: resources/views/product/manage/edit-details.blade.php:53
+msgid "Mark Out of Stock"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:96
+#: resources/views/product/manage/edit-details.blade.php:93
+#: resources/views/store/placement.blade.php:26
+msgid "Select Brand"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:98
+#: resources/views/product/manage/edit-details.blade.php:95
+msgid "Add New brand"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:124
+msgid "Youtube Video"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:134
+#: resources/views/product/manage/edit-details.blade.php:139
+msgid "Use only youtube video code, as in following eg. __sampleYoutubeLink__"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:139
+#: resources/views/product/manage/detail-dialog.blade.php:40
+#: resources/views/product/manage/edit-details.blade.php:144
+msgid "Old Price"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:177
+#: resources/views/product/manage/edit-details.blade.php:182
+msgid "Select Related Products"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:188
+msgid ""
+"Save for now &amp; continue to add options (Publically not available until "
+"mark as active.)"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:189
+msgid "Save &amp; Continue"
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:194
+msgid "Save this item &amp; mark as active."
+msgstr ""
+
+#: resources/views/product/manage/add.blade.php:195
+msgid "Save &amp; Publish"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:5
+msgid "Product Information"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:12
+msgid ""
+"This product or its category is deactive & will not display in public until "
+"you change status Deactive to Active"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:64
+msgid "Updated On"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:132
+msgid "Go to Category Products"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:146
+msgid "Go to Brand Products"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:154
+msgid "Product Options"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:163
+msgid "Addon Value"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:164
+msgid "Addon Price "
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:164
+msgid "(if any)"
+msgstr ""
+
+#: resources/views/product/manage/detail-dialog.blade.php:204
+msgid "Go to View Details Page"
+msgstr ""
+
+#: resources/views/product/manage/edit-details.blade.php:129
+msgid "Youtube Video Code"
+msgstr ""
+
+#: resources/views/product/manage/edit-details.blade.php:193
+msgid "To show the details of this product"
+msgstr ""
+
+#: resources/views/product/manage/edit-details.blade.php:195
+msgid "View Page"
+msgstr ""
+
+#: resources/views/product/manage/edit.blade.php:16
+msgid "Publically Available"
+msgstr ""
+
+#: resources/views/product/manage/edit.blade.php:20
+msgid "Update Status"
+msgstr ""
+
+#: resources/views/product/manage/edit.blade.php:34
+msgid "Options"
+msgstr ""
+
+#: resources/views/product/manage/edit.blade.php:35
+msgid "Images"
+msgstr ""
+
+#: resources/views/product/manage/edit.blade.php:36
+msgid "Specification"
+msgstr ""
+
+#: resources/views/product/manage/list.blade.php:175
+msgid "In Stock"
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:4
+msgid "Add Option"
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:12
+#: resources/views/product/manage/options/values/list-dialog.blade.php:13
+msgid "Note : "
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:12
+msgid "Adding an option will create dropdown menu on product page."
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:28
+#: resources/views/product/manage/options/values/list-dialog.blade.php:19
+msgid "Value Name"
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:39
+#: resources/views/product/manage/options/values/list-dialog.blade.php:30
+msgid "Addon Price"
+msgstr ""
+
+#: resources/views/product/manage/options/add-dialog.blade.php:60
+#: resources/views/product/manage/options/values/list-dialog.blade.php:56
+#: resources/views/product/manage/specification/add-dialog.blade.php:53
+msgid "Add More"
+msgstr ""
+
+#: resources/views/product/manage/options/edit-dialog.blade.php:4
+msgid "Edit Option"
+msgstr ""
+
+#: resources/views/product/manage/options/list.blade.php:5
+msgid "Manage Options"
+msgstr ""
+
+#: resources/views/product/manage/options/list.blade.php:10
+msgid "Add New Option"
+msgstr ""
+
+#: resources/views/product/manage/options/list.blade.php:22
+#: resources/views/product/manage/specification/list.blade.php:19
+msgid "Values"
+msgstr ""
+
+#: resources/views/product/manage/options/list.blade.php:36
+msgid "Add / Edit values for"
+msgstr ""
+
+#: resources/views/product/manage/options/list.blade.php:40
+msgid "Add / "
+msgstr ""
+
+#: resources/views/product/manage/options/values/list-dialog.blade.php:4
+msgid "Add / Edit Values"
+msgstr ""
+
+#: resources/views/product/manage/specification/add-dialog.blade.php:4
+msgid "Add Specification"
+msgstr ""
+
+#: resources/views/product/manage/specification/add-dialog.blade.php:26
+msgid "Select / Add New Name"
+msgstr ""
+
+#: resources/views/product/manage/specification/add-dialog.blade.php:34
+#: resources/views/product/manage/specification/edit-dialog.blade.php:34
+msgid "Value"
+msgstr ""
+
+#: resources/views/product/manage/specification/add-dialog.blade.php:42
+#: resources/views/product/manage/specification/edit-dialog.blade.php:42
+msgid "Select Value"
+msgstr ""
+
+#: resources/views/product/manage/specification/edit-dialog.blade.php:4
+msgid "Edit Specification"
+msgstr ""
+
+#: resources/views/product/manage/specification/edit-dialog.blade.php:24
+msgid "Select Name"
+msgstr ""
+
+#: resources/views/product/manage/specification/list.blade.php:5
+msgid "Manage Specification"
+msgstr ""
+
+#: resources/views/product/manage/specification/list.blade.php:8
+msgid "Add New Specification"
+msgstr ""
+
+#: resources/views/product/manage/uploaded-media.blade.php:4
+msgid "Uploaded Files"
+msgstr ""
+
+#: resources/views/product/manage/uploaded-media.blade.php:16
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:12
+msgid "Preview"
+msgstr ""
+
+#: resources/views/product/manage/uploaded-media.blade.php:17
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:13
+msgid "File Name"
+msgstr ""
+
+#: resources/views/product/manage/uploaded-media.blade.php:39
+msgid "Delete Multiple Files"
+msgstr ""
+
+#: resources/views/product/manage/uploaded-media.blade.php:47
+msgid "There are no files to display."
+msgstr ""
+
+#: resources/views/public-master.blade.php:48
+msgid "Loading .."
+msgstr ""
+
+#: resources/views/public-master.blade.php:67
+msgid "Demonstration purposes only. No Order will be executed."
+msgstr ""
+
+#: resources/views/public-master.blade.php:126
+#: resources/views/public-master.blade.php:127
+msgid "Go to top"
+msgstr ""
+
+#: resources/views/report/manage/details-dialog.blade.php:20
+msgid "Customer Name"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:84
+#: resources/views/store/order.blade.php:17
+msgid "Order"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:108
+msgid "Total order Payments "
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:116
+#: resources/views/store/currency.blade.php:19
+#: resources/views/store/edit_settings.blade.php:36
+#: resources/views/store/edit_settings.blade.php:38
+msgid "Currency"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:117
+msgid "Credit Amount"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:118
+msgid "Debit Amount"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:119
+msgid "Difference Amount"
+msgstr ""
+
+#: resources/views/report/manage/list.blade.php:158
+msgid "Total"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:4
+#: resources/views/shipping/manage/list.blade.php:34
+msgid "Add New Shipping Rule"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:21
+#: resources/views/shipping/manage/edit-dialog.blade.php:26
+#: resources/views/shipping/manage/list.blade.php:73
+msgid "Type / Availability"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:29
+#: resources/views/shipping/manage/detail-dialog.blade.php:29
+#: resources/views/shipping/manage/edit-dialog.blade.php:34
+#: resources/views/shipping/manage/list.blade.php:41
+#: resources/views/shipping/manage/list.blade.php:81
+msgid "Charges"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:46
+msgid "Free Shipping If Order Amount More Than"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:46
+#: resources/views/shipping/manage/edit-dialog.blade.php:50
+msgid "Shipping Free After Amount"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:60
+#: resources/views/shipping/manage/detail-dialog.blade.php:50
+#: resources/views/shipping/manage/edit-dialog.blade.php:64
+#: resources/views/shipping/manage/list.blade.php:113
+msgid "Maximum Shipping Amount"
+msgstr ""
+
+#: resources/views/shipping/manage/add-dialog.blade.php:75
+#: resources/views/shipping/manage/detail-dialog.blade.php:65
+#: resources/views/shipping/manage/edit-dialog.blade.php:79
+#: resources/views/shipping/manage/list.blade.php:127
+#: resources/views/tax/manage/add-dialog.blade.php:57
+#: resources/views/tax/manage/detail-dialog.blade.php:64
+#: resources/views/tax/manage/edit-dialog.blade.php:58
+msgid "Notes"
+msgstr ""
+
+#: resources/views/shipping/manage/detail-dialog.blade.php:5
+msgid "Shipping Rule Details"
+msgstr ""
+
+#: resources/views/shipping/manage/detail-dialog.blade.php:23
+msgid "Shipping Type"
+msgstr ""
+
+#: resources/views/shipping/manage/detail-dialog.blade.php:41
+msgid "Free Shipping if Order Amount more than"
+msgstr ""
+
+#: resources/views/shipping/manage/edit-dialog.blade.php:4
+msgid "Edit Shipping Rule"
+msgstr ""
+
+#: resources/views/shipping/manage/edit-dialog.blade.php:50
+#: resources/views/shipping/manage/list.blade.php:98
+msgid "Free Shipping if Order Amount More than"
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:7
+msgid "Manage Shipping Rules"
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:15
+#: resources/views/shipping/manage/list.blade.php:16
+#: resources/views/shipping/manage/list.blade.php:66
+msgid "Specific Countries"
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:21
+#: resources/views/shipping/manage/list.blade.php:22
+msgid "All Other Countries"
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:42
+#: resources/views/tax/manage/list.blade.php:29
+msgid "Date"
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:64
+msgid "Please Note : "
+msgstr ""
+
+#: resources/views/shipping/manage/list.blade.php:65
+msgid ""
+"This Shipping Rule will be applicable to all other countries which are not "
+"listed in __specificCountry__ tab."
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:73
+msgid "Loading.."
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:95
+msgid "Your Cart Total"
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:100
+msgid "Please continue to proceed order"
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:122
+msgid "Close for Now & do some more Shopping!!"
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:130
+#: resources/views/shoppingCart/cart-view.blade.php:131
+#: resources/views/shoppingCart/cart-view.blade.php:139
+#: resources/views/shoppingCart/cart-view.blade.php:140
+msgid "Complete your Order"
+msgstr ""
+
+#: resources/views/shoppingCart/cart-view.blade.php:147
+msgid "Empty Cart"
+msgstr ""
+
+#: resources/views/store/contact.blade.php:15
+msgid "Email Address For Contact Form"
+msgstr ""
+
+#: resources/views/store/contact.blade.php:26
+msgid "Address, Telephone For Contact Page"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:20
+msgid "Select Currency"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:26
+msgid "Currency Code"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:36
+msgid "Currency may not supported by PayPal"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:39
+msgid "Currency Symbol"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:51
+msgid "Refer for"
+msgstr ""
+
+#: resources/views/store/currency.blade.php:51
+msgid "ASCII Codes"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:13
+#: resources/views/store/edit_settings.blade.php:15
+msgid "General"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:59
+#: resources/views/store/edit_settings.blade.php:61
+msgid "Order & Payments"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:105
+msgid "Placements & Other Elements"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:107
+msgid "Placement & Other Elements"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:151
+#: resources/views/store/edit_settings.blade.php:153
+msgid "User Terms & Conditions"
+msgstr ""
+
+#: resources/views/store/edit_settings.blade.php:197
+#: resources/views/store/edit_settings.blade.php:199
+msgid "Social"
+msgstr ""
+
+#: resources/views/store/general.blade.php:14
+msgid "Store Name"
+msgstr ""
+
+#: resources/views/store/general.blade.php:25
+msgid "Current Logo"
+msgstr ""
+
+#: resources/views/store/general.blade.php:33
+msgid "New Logo"
+msgstr ""
+
+#: resources/views/store/general.blade.php:34
+msgid "Only PNG images are expected"
+msgstr ""
+
+#: resources/views/store/general.blade.php:50
+msgid "Header Background Color"
+msgstr ""
+
+#: resources/views/store/general.blade.php:67
+msgid "Business Email"
+msgstr ""
+
+#: resources/views/store/general.blade.php:76
+msgid "Default Home Page Content"
+msgstr ""
+
+#: resources/views/store/general.blade.php:78
+msgid "Home Page"
+msgstr ""
+
+#: resources/views/store/general.blade.php:83
+#: resources/views/store/general.blade.php:84
+msgid "TimeZone"
+msgstr ""
+
+#: resources/views/store/order.blade.php:23
+msgid "Hide Sidebar On Order Submit Page."
+msgstr ""
+
+#: resources/views/store/order.blade.php:37
+msgid "Payments"
+msgstr ""
+
+#: resources/views/store/order.blade.php:43
+msgid "PayPal"
+msgstr ""
+
+#: resources/views/store/order.blade.php:54
+msgid "PayPal Email"
+msgstr ""
+
+#: resources/views/store/order.blade.php:70
+msgid "Check Payment"
+msgstr ""
+
+#: resources/views/store/order.blade.php:81
+msgid "Check Payment Information"
+msgstr ""
+
+#: resources/views/store/order.blade.php:92
+msgid "Bank Payment"
+msgstr ""
+
+#: resources/views/store/order.blade.php:103
+msgid "Bank Payment Information"
+msgstr ""
+
+#: resources/views/store/order.blade.php:114
+msgid "COD Payment"
+msgstr ""
+
+#: resources/views/store/order.blade.php:125
+msgid "COD Payment Information"
+msgstr ""
+
+#: resources/views/store/order.blade.php:136
+msgid "Other"
+msgstr ""
+
+#: resources/views/store/order.blade.php:147
+msgid "Other Order Payment Information"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:17
+msgid "Categories Menu"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:18
+msgid "Select Categories"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:25
+msgid "Brand Menu"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:32
+msgid "Enable Credit Info"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:42
+msgid "Show Language Menu"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:53
+msgid "Page End Additionals"
+msgstr ""
+
+#: resources/views/store/placement.blade.php:53
+msgid "Page End Additionals, May Use For Scripts Like Google Analytics etc."
+msgstr ""
+
+#: resources/views/store/placement.blade.php:61
+msgid "Addition Footer Text After Name & Copy Right"
+msgstr ""
+
+#: resources/views/store/privacy-policy.blade.php:15
+msgid "Privacy"
+msgstr ""
+
+#: resources/views/store/product.blade.php:15
+msgid "Show Out Of Stock Products"
+msgstr ""
+
+#: resources/views/store/product.blade.php:25
+msgid "Products Per Page On List"
+msgstr ""
+
+#: resources/views/store/social.blade.php:15
+msgid "Facebook Username"
+msgstr ""
+
+#: resources/views/store/social.blade.php:25
+msgid "Twitter Handle"
+msgstr ""
+
+#: resources/views/store/term-condition.blade.php:14
+msgid "Terms & Conditions For User Registration"
+msgstr ""
+
+#: resources/views/tax/manage/add-dialog.blade.php:4
+msgid "Add Tax"
+msgstr ""
+
+#: resources/views/tax/manage/add-dialog.blade.php:21
+#: resources/views/tax/manage/detail-dialog.blade.php:28
+#: resources/views/tax/manage/edit-dialog.blade.php:21
+#: resources/views/tax/manage/list.blade.php:25
+msgid "Label"
+msgstr ""
+
+#: resources/views/tax/manage/add-dialog.blade.php:40
+#: resources/views/tax/manage/detail-dialog.blade.php:34
+#: resources/views/tax/manage/edit-dialog.blade.php:41
+#: resources/views/tax/manage/list.blade.php:28
+msgid "Applicable Tax"
+msgstr ""
+
+#: resources/views/tax/manage/detail-dialog.blade.php:5
+msgid "Tax Details"
+msgstr ""
+
+#: resources/views/tax/manage/detail-dialog.blade.php:22
+msgid "Tax Type"
+msgstr ""
+
+#: resources/views/tax/manage/edit-dialog.blade.php:4
+msgid "Edit Tax"
+msgstr ""
+
+#: resources/views/tax/manage/list.blade.php:7
+msgid "Manage Taxes"
+msgstr ""
+
+#: resources/views/tax/manage/list.blade.php:14
+msgid "Add New Tax"
+msgstr ""
+
+#: resources/views/terms-and-conditions.blade.php:5
+#: resources/views/terms-and-conditions.blade.php:6
+#: resources/views/user/terms-and-conditions.blade.php:5
+#: resources/views/user/terms-and-conditions.blade.php:7
+msgid "Terms & Conditions"
+msgstr ""
+
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:4
+msgid "Upload Manager"
+msgstr ""
+
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:7
+msgid " Note :"
+msgstr ""
+
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:7
+msgid "Please double click on image/document for selection."
+msgstr ""
+
+#: resources/views/upload-manager/upload-manager-dialog.blade.php:35
+msgid "Uploads"
+msgstr ""
+
+#: resources/views/user/change-email-success.blade.php:8
+#: resources/views/user/register-success.blade.php:8
+msgid "Activate your account"
+msgstr ""
+
+#: resources/views/user/change-email-success.blade.php:11
+msgid ""
+"Almost finished... We need to confirm your email address. To complete the "
+"activation process, please click the link in the email we just sent you.."
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:14
+msgid "Activate your new email address"
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:16
+#: resources/views/user/register-success.blade.php:11
+msgid ""
+"Almost finished... You need to confirm your email address. To complete the "
+"activation process, please click the link in the email we just sent you."
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:28
+msgid "Current Email"
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:39
+#: resources/views/user/change-password.blade.php:16
+msgid "Current Password"
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:52
+msgid "New Email"
+msgstr ""
+
+#: resources/views/user/change-email.blade.php:63
+msgid "Update Request"
+msgstr ""
+
+#: resources/views/user/change-password.blade.php:29
+#: resources/views/user/manage/change-password.blade.php:17
+msgid "New Password"
+msgstr ""
+
+#: resources/views/user/change-password.blade.php:41
+#: resources/views/user/manage/change-password.blade.php:29
+msgid "New Password Confirmation"
+msgstr ""
+
+#: resources/views/user/change-password.blade.php:54
+#: resources/views/user/manage/change-password.blade.php:43
+msgid "Update Password"
+msgstr ""
+
+#: resources/views/user/forgot-password-success.blade.php:8
+msgid " Forgot Password "
+msgstr ""
+
+#: resources/views/user/forgot-password-success.blade.php:11
+msgid "We have sent password reset link to your email address.."
+msgstr ""
+
+#: resources/views/user/forgot-password.blade.php:16
+#: resources/views/user/resend-activation-email.blade.php:17
+msgid "Enter your email address"
+msgstr ""
+
+#: resources/views/user/forgot-password.blade.php:16
+#: resources/views/user/resend-activation-email.blade.php:17
+msgid "email"
+msgstr ""
+
+#: resources/views/user/forgot-password.blade.php:27
+#: resources/views/user/resend-activation-email.blade.php:28
+msgid "Submit Request"
+msgstr ""
+
+#: resources/views/user/login.blade.php:44
+msgid "Forgot Password?"
+msgstr ""
+
+#: resources/views/user/login.blade.php:53
+msgid "I know you are a human"
+msgstr ""
+
+#: resources/views/user/login.blade.php:62
+#: resources/views/user/register.blade.php:82
+msgid "Refresh Captcha"
+msgstr ""
+
+#: resources/views/user/login.blade.php:70
+msgid "Remember me"
+msgstr ""
+
+#: resources/views/user/login.blade.php:77
+msgid "Didn't received activation key yet? Request again"
+msgstr ""
+
+#: resources/views/user/login.blade.php:87
+msgid "Not Registered Yet?"
+msgstr ""
+
+#: resources/views/user/login.blade.php:88
+msgid "Register Now"
+msgstr ""
+
+#: resources/views/user/manage-profile.blade.php:12
+#: resources/views/user/profile-edit.blade.php:15
+#: resources/views/user/profile.blade.php:10
+#: resources/views/user/register.blade.php:15
+msgid "First Name"
+msgstr ""
+
+#: resources/views/user/manage-profile.blade.php:19
+#: resources/views/user/profile-edit.blade.php:25
+#: resources/views/user/profile.blade.php:17
+#: resources/views/user/register.blade.php:27
+msgid "Last Name"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:5
+msgid "Manage Users"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:15
+msgid "Deleted"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:18
+msgid "Never Activated"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:36
+#: resources/views/user/manage/list.blade.php:75
+msgid "Since"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:37
+#: resources/views/user/manage/list.blade.php:57
+#: resources/views/user/manage/list.blade.php:76
+msgid "Last Login"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:56
+msgid "Deleted on"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:101
+msgid "Restore"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:108
+msgid "User Orders"
+msgstr ""
+
+#: resources/views/user/manage/list.blade.php:111
+#: resources/views/user/manage/user-details.blade.php:5
+msgid "User Details"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:26
+#: resources/views/user/manage/user-details.blade.php:43
+#: resources/views/user/manage/user-details.blade.php:60
+#: resources/views/user/manage/user-details.blade.php:77
+#: resources/views/user/manage/user-details.blade.php:94
+#: resources/views/user/manage/user-details.blade.php:104
+msgid "NA"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:35
+msgid "Last login"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:52
+msgid "Last logged in IP"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:86
+msgid "Last Order Placed On"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:100
+msgid "Last Order ID"
+msgstr ""
+
+#: resources/views/user/manage/user-details.blade.php:114
+msgid "Total Orders"
+msgstr ""
+
+#: resources/views/user/profile-edit.blade.php:5
+msgid "Profile Update"
+msgstr ""
+
+#: resources/views/user/register.blade.php:61
+#: resources/views/user/reset-password.blade.php:37
+msgid "Password Confirmation"
+msgstr ""
+
+#: resources/views/user/register.blade.php:73
+msgid "Prove you are not robot"
+msgstr ""
+
+#: resources/views/user/register.blade.php:73
+msgid "Confirmation Code"
+msgstr ""
+
+#: resources/views/user/register.blade.php:92
+msgid "I have read and accept"
+msgstr ""
+
+#: resources/views/user/register.blade.php:102
+#: resources/views/user/register.blade.php:105
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: resources/views/user/resend-activation-email-success.blade.php:9
+msgid "Please activate your account"
+msgstr ""
+
+#: resources/views/vendor/laravel-filemanager/index.blade.php:5
+#: resources/views/vendor/laravel-filemanager/index.blade.php:22
+msgid "File Manager"
+msgstr ""
+
+#, fuzzy
+#~ msgid "%d items went to the %user% \n"
+#~ msgstr "%d डुकरे %user% ला गेले.,\n"

@@ -1,0 +1,12 @@
+{
+    "name"  : "Laraware",
+    "version"   : "0.1.x",
+    "releases" : {
+        "1.0.0" : {
+            "title"   : "All Files update",
+            "date"    : "25 SEP 2017",
+            "message" : "CS - Code formatted",
+            "author"  : "Mohammad Bagheri"
+        }
+    }
+}
